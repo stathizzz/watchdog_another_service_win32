@@ -1,0 +1,730 @@
+13-07-2015 05:40:25  
+DSN : SQLSRV13-07-2015 05:40:25  
+Procedure Cat    : blackjack
+13-07-2015 05:40:25  Procedure Schema : dbo
+13-07-2015 05:40:25  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:40:25  Procedure Type   : 13-07-2015 05:40:25  SQL_PT_FUNCTION
+13-07-2015 05:40:25  
+DSN : SQLSRV13-07-2015 05:40:25  
+Procedure Cat    : blackjack
+13-07-2015 05:40:25  Procedure Schema : dbo
+13-07-2015 05:40:25  Procedure Name   : LogNewCreate;1
+13-07-2015 05:40:25  Procedure Type   : 13-07-2015 05:40:25  SQL_PT_FUNCTION
+13-07-2015 05:40:25  OpenSCManager failed (5)
+13-07-2015 05:40:26  OpenSCManager failed (5)
+13-07-2015 05:40:27  OpenSCManager failed (5)
+13-07-2015 05:40:28  OpenSCManager failed (5)
+13-07-2015 05:40:29  OpenSCManager failed (5)
+13-07-2015 05:40:30  OpenSCManager failed (5)
+13-07-2015 05:40:31  OpenSCManager failed (5)
+13-07-2015 05:40:32  OpenSCManager failed (5)
+13-07-2015 05:40:33  OpenSCManager failed (5)
+13-07-2015 05:40:34  OpenSCManager failed (5)
+13-07-2015 05:40:35  OpenSCManager failed (5)
+13-07-2015 05:40:36  OpenSCManager failed (5)
+13-07-2015 05:40:37  OpenSCManager failed (5)
+13-07-2015 05:40:38  OpenSCManager failed (5)
+13-07-2015 05:40:39  OpenSCManager failed (5)
+13-07-2015 05:40:40  OpenSCManager failed (5)
+13-07-2015 05:40:41  OpenSCManager failed (5)
+13-07-2015 05:40:42  OpenSCManager failed (5)
+13-07-2015 05:40:43  OpenSCManager failed (5)
+13-07-2015 05:40:44  OpenSCManager failed (5)
+13-07-2015 05:40:45  OpenSCManager failed (5)
+13-07-2015 05:40:46  OpenSCManager failed (5)
+13-07-2015 05:40:47  OpenSCManager failed (5)
+13-07-2015 05:40:48  OpenSCManager failed (5)
+13-07-2015 05:40:49  OpenSCManager failed (5)
+13-07-2015 05:40:50  OpenSCManager failed (5)
+13-07-2015 05:40:52  OpenSCManager failed (5)
+13-07-2015 05:40:53  OpenSCManager failed (5)
+13-07-2015 05:40:54  OpenSCManager failed (5)
+13-07-2015 05:40:55  OpenSCManager failed (5)
+13-07-2015 05:40:56  OpenSCManager failed (5)
+13-07-2015 05:40:57  OpenSCManager failed (5)
+13-07-2015 05:40:58  OpenSCManager failed (5)
+13-07-2015 05:40:59  OpenSCManager failed (5)
+13-07-2015 05:41:00  OpenSCManager failed (5)
+13-07-2015 05:41:01  OpenSCManager failed (5)
+13-07-2015 05:41:02  OpenSCManager failed (5)
+13-07-2015 05:41:03  OpenSCManager failed (5)
+13-07-2015 05:41:04  OpenSCManager failed (5)
+13-07-2015 05:41:05  OpenSCManager failed (5)
+13-07-2015 05:41:06  OpenSCManager failed (5)
+13-07-2015 05:41:07  OpenSCManager failed (5)
+13-07-2015 05:41:08  OpenSCManager failed (5)
+13-07-2015 05:41:09  OpenSCManager failed (5)
+13-07-2015 05:41:10  OpenSCManager failed (5)
+13-07-2015 05:41:11  OpenSCManager failed (5)
+13-07-2015 05:41:12  OpenSCManager failed (5)
+13-07-2015 05:41:13  OpenSCManager failed (5)
+13-07-2015 05:41:14  OpenSCManager failed (5)
+13-07-2015 05:41:15  OpenSCManager failed (5)
+13-07-2015 05:41:16  OpenSCManager failed (5)
+13-07-2015 05:41:17  OpenSCManager failed (5)
+13-07-2015 05:41:18  OpenSCManager failed (5)
+13-07-2015 05:41:19  OpenSCManager failed (5)
+13-07-2015 05:41:38  
+DSN : SQLSRV13-07-2015 05:41:38  
+Procedure Cat    : blackjack
+13-07-2015 05:41:38  Procedure Schema : dbo
+13-07-2015 05:41:38  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:41:38  Procedure Type   : 13-07-2015 05:41:38  SQL_PT_FUNCTION
+13-07-2015 05:41:38  
+DSN : SQLSRV13-07-2015 05:41:38  
+Procedure Cat    : blackjack
+13-07-2015 05:41:38  Procedure Schema : dbo
+13-07-2015 05:41:38  Procedure Name   : LogNewCreate;1
+13-07-2015 05:41:38  Procedure Type   : 13-07-2015 05:41:38  SQL_PT_FUNCTION
+13-07-2015 05:41:38  OpenSCManager failed (5)
+13-07-2015 05:41:39  OpenSCManager failed (5)
+13-07-2015 05:41:40  OpenSCManager failed (5)
+13-07-2015 05:41:41  OpenSCManager failed (5)
+13-07-2015 05:41:42  OpenSCManager failed (5)
+13-07-2015 05:41:43  OpenSCManager failed (5)
+13-07-2015 05:42:36  
+DSN : SQLSRV13-07-2015 05:42:36  
+Procedure Cat    : blackjack
+13-07-2015 05:42:36  Procedure Schema : dbo
+13-07-2015 05:42:36  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:42:36  Procedure Type   : 13-07-2015 05:42:36  SQL_PT_FUNCTION
+13-07-2015 05:42:36  
+DSN : SQLSRV13-07-2015 05:42:36  
+Procedure Cat    : blackjack
+13-07-2015 05:42:36  Procedure Schema : dbo
+13-07-2015 05:42:36  Procedure Name   : LogNewCreate;1
+13-07-2015 05:42:36  Procedure Type   : 13-07-2015 05:42:36  SQL_PT_FUNCTION
+13-07-2015 05:42:36  Checking for new version.
+13-07-2015 05:42:36  Required jar file for update not found on destination.
+13-07-2015 05:42:37  Checking for new version.
+13-07-2015 05:42:37  Required jar file for update not found on destination.
+13-07-2015 05:42:38  Checking for new version.
+13-07-2015 05:42:38  Required jar file for update not found on destination.
+13-07-2015 05:42:39  Checking for new version.
+13-07-2015 05:42:39  Required jar file for update not found on destination.
+13-07-2015 05:42:46  Checking for new version.
+13-07-2015 05:42:46  Required jar file for update not found on destination.
+13-07-2015 05:42:51  Checking for new version.
+13-07-2015 05:43:15  Required jar file for update not found on destination.
+13-07-2015 05:43:17  Checking for new version.
+13-07-2015 05:43:33  Required jar file for update not found on destination.
+13-07-2015 05:43:34  Checking for new version.
+13-07-2015 05:43:37  Required jar file for update not found on destination.
+13-07-2015 05:43:38  Checking for new version.
+13-07-2015 05:43:41  Required jar file for update not found on destination.
+13-07-2015 05:43:42  Checking for new version.
+13-07-2015 05:43:42  Required jar file for update not found on destination.
+13-07-2015 05:43:43  Checking for new version.
+13-07-2015 05:43:43  Required jar file for update not found on destination.
+13-07-2015 05:43:44  Checking for new version.
+13-07-2015 05:43:44  Required jar file for update not found on destination.
+13-07-2015 05:43:45  Checking for new version.
+13-07-2015 05:44:07  Required jar file for update not found on destination.
+13-07-2015 05:44:08  Checking for new version.
+13-07-2015 05:45:25  
+DSN : SQLSRV13-07-2015 05:45:25  
+Procedure Cat    : blackjack
+13-07-2015 05:45:25  Procedure Schema : dbo
+13-07-2015 05:45:25  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:45:25  Procedure Type   : 13-07-2015 05:45:25  SQL_PT_FUNCTION
+13-07-2015 05:45:25  
+DSN : SQLSRV13-07-2015 05:45:25  
+Procedure Cat    : blackjack
+13-07-2015 05:45:25  Procedure Schema : dbo
+13-07-2015 05:45:25  Procedure Name   : LogNewCreate;1
+13-07-2015 05:45:25  Procedure Type   : 13-07-2015 05:45:25  SQL_PT_FUNCTION
+13-07-2015 05:45:25  Checking for new version.
+13-07-2015 05:46:12  Required jar file for update not found on update folder.
+13-07-2015 05:46:13  Checking for new version.
+13-07-2015 05:46:58  
+DSN : SQLSRV13-07-2015 05:46:58  
+Procedure Cat    : blackjack
+13-07-2015 05:46:58  Procedure Schema : dbo
+13-07-2015 05:46:58  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:46:58  Procedure Type   : 13-07-2015 05:46:58  SQL_PT_FUNCTION
+13-07-2015 05:46:58  
+DSN : SQLSRV13-07-2015 05:46:58  
+Procedure Cat    : blackjack
+13-07-2015 05:46:58  Procedure Schema : dbo
+13-07-2015 05:46:58  Procedure Name   : LogNewCreate;1
+13-07-2015 05:46:58  Procedure Type   : 13-07-2015 05:46:58  SQL_PT_FUNCTION
+13-07-2015 05:46:58  Checking for new version.
+13-07-2015 05:47:22  No new version found.
+13-07-2015 05:47:24  Checking for new version.
+13-07-2015 05:47:24  No new version found.
+13-07-2015 05:47:25  Checking for new version.
+13-07-2015 05:47:25  No new version found.
+13-07-2015 05:47:46  
+DSN : SQLSRV13-07-2015 05:47:46  
+Procedure Cat    : blackjack
+13-07-2015 05:47:46  Procedure Schema : dbo
+13-07-2015 05:47:46  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:47:46  Procedure Type   : 13-07-2015 05:47:46  SQL_PT_FUNCTION
+13-07-2015 05:47:47  
+DSN : SQLSRV13-07-2015 05:47:47  
+Procedure Cat    : blackjack
+13-07-2015 05:47:47  Procedure Schema : dbo
+13-07-2015 05:47:47  Procedure Name   : LogNewCreate;1
+13-07-2015 05:47:47  Procedure Type   : 13-07-2015 05:47:47  SQL_PT_FUNCTION
+13-07-2015 05:47:47  Checking for new version.
+13-07-2015 05:47:47  New version found.
+13-07-2015 05:47:47  Service stopped so as to update.
+13-07-2015 05:47:47  Updating file NavigationDrawer.zip.
+13-07-2015 05:47:47  Done update.
+13-07-2015 05:47:47  Service started after update.
+13-07-2015 05:47:47  Service is pending...
+13-07-2015 05:47:47  Time passed on general pending: 0.000 sec(s).
+13-07-2015 05:47:48  Service failed to start on SERVICE_PENDING.
+13-07-2015 05:47:48  Time passed on SERVICE_PENDING: 0.000 sec(s).
+13-07-2015 05:47:49  Checking for new version.
+13-07-2015 05:47:49  No new version found.
+13-07-2015 05:47:50  Checking for new version.
+13-07-2015 05:47:50  No new version found.
+13-07-2015 05:47:51  Checking for new version.
+13-07-2015 05:47:51  No new version found.
+13-07-2015 05:47:52  Checking for new version.
+13-07-2015 05:47:52  No new version found.
+13-07-2015 05:47:53  Checking for new version.
+13-07-2015 05:47:53  No new version found.
+13-07-2015 05:47:54  Checking for new version.
+13-07-2015 05:47:54  No new version found.
+13-07-2015 05:47:55  Checking for new version.
+13-07-2015 05:47:55  No new version found.
+13-07-2015 05:47:56  Checking for new version.
+13-07-2015 05:47:56  No new version found.
+13-07-2015 05:47:57  Checking for new version.
+13-07-2015 05:47:57  No new version found.
+13-07-2015 05:47:58  Checking for new version.
+13-07-2015 05:49:05  
+DSN : SQLSRV13-07-2015 05:49:05  
+Procedure Cat    : blackjack
+13-07-2015 05:49:05  Procedure Schema : dbo
+13-07-2015 05:49:05  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:49:05  Procedure Type   : 13-07-2015 05:49:05  SQL_PT_FUNCTION
+13-07-2015 05:49:06  
+DSN : SQLSRV13-07-2015 05:49:06  
+Procedure Cat    : blackjack
+13-07-2015 05:49:06  Procedure Schema : dbo
+13-07-2015 05:49:06  Procedure Name   : LogNewCreate;1
+13-07-2015 05:49:06  Procedure Type   : 13-07-2015 05:49:06  SQL_PT_FUNCTION
+13-07-2015 05:49:06  Checking for new version.
+13-07-2015 05:49:07  New version found.
+13-07-2015 05:49:09  Service stopped so as to update.
+13-07-2015 05:51:51  
+DSN : SQLSRV13-07-2015 05:51:51  
+Procedure Cat    : blackjack
+13-07-2015 05:51:51  Procedure Schema : dbo
+13-07-2015 05:51:51  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:51:51  Procedure Type   : 13-07-2015 05:51:51  SQL_PT_FUNCTION
+13-07-2015 05:51:52  
+DSN : SQLSRV13-07-2015 05:51:52  
+Procedure Cat    : blackjack
+13-07-2015 05:51:52  Procedure Schema : dbo
+13-07-2015 05:51:52  Procedure Name   : LogNewCreate;1
+13-07-2015 05:51:52  Procedure Type   : 13-07-2015 05:51:52  SQL_PT_FUNCTION
+13-07-2015 05:51:52  Service is stopped. Trying database logging
+13-07-2015 05:51:52  
+DSN : SQLSRV13-07-2015 05:51:52  
+Procedure Cat    : blackjack
+13-07-2015 05:51:52  Procedure Schema : dbo
+13-07-2015 05:51:52  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:51:52  Procedure Type   : 13-07-2015 05:51:52  SQL_PT_FUNCTION
+13-07-2015 05:51:52  
+DSN : SQLSRV13-07-2015 05:51:52  
+Procedure Cat    : blackjack
+13-07-2015 05:51:52  Procedure Schema : dbo
+13-07-2015 05:51:52  Procedure Name   : AppInstancesSetState;1
+13-07-2015 05:51:52  Procedure Type   : 13-07-2015 05:51:52  SQL_PT_FUNCTION
+13-07-2015 05:51:53  
+DSN : SQLSRV13-07-2015 05:51:53  
+Procedure Cat    : blackjack
+13-07-2015 05:51:53  Procedure Schema : dbo
+13-07-2015 05:51:53  Procedure Name   : AppEventsCreate;1
+13-07-2015 05:51:53  Procedure Type   : 13-07-2015 05:51:53  SQL_PT_FUNCTION
+13-07-2015 05:51:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Unfinished event not found
+13-07-2015 05:51:53  [Microsoft][ODBC SQL Server Driver]Invalid cursor state
+13-07-2015 05:51:53  [Microsoft][ODBC SQL Server Driver]Invalid cursor state
+13-07-2015 05:51:53  Failed database event logging.
+13-07-2015 05:51:53  Service started.
+13-07-2015 05:51:54  Checking for new version.
+13-07-2015 05:51:54  New version found.
+13-07-2015 05:52:30  Updater error: recreating the new directory structure failed.13-07-2015 05:53:02  Updater error: unable to recreate new dir structure.13-07-2015 05:53:07  Done update.
+13-07-2015 05:53:08  Checking for new version.
+13-07-2015 05:53:08  New version found.
+13-07-2015 05:53:23  Updater error: recreating the new directory structure failed.13-07-2015 05:53:38  Updater error: unable to recreate new dir structure.13-07-2015 05:53:39  Done update.
+13-07-2015 05:53:40  Checking for new version.
+13-07-2015 05:53:40  New version found.
+13-07-2015 05:54:30  
+DSN : SQLSRV13-07-2015 05:54:30  
+Procedure Cat    : blackjack
+13-07-2015 05:54:30  Procedure Schema : dbo
+13-07-2015 05:54:30  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:54:30  Procedure Type   : 13-07-2015 05:54:30  SQL_PT_FUNCTION
+13-07-2015 05:54:31  
+DSN : SQLSRV13-07-2015 05:54:31  
+Procedure Cat    : blackjack
+13-07-2015 05:54:31  Procedure Schema : dbo
+13-07-2015 05:54:31  Procedure Name   : LogNewCreate;1
+13-07-2015 05:54:31  Procedure Type   : 13-07-2015 05:54:31  SQL_PT_FUNCTION
+13-07-2015 05:54:31  Checking for new version.
+13-07-2015 05:54:31  New version found.
+13-07-2015 05:55:49  
+DSN : SQLSRV13-07-2015 05:55:49  
+Procedure Cat    : blackjack
+13-07-2015 05:55:49  Procedure Schema : dbo
+13-07-2015 05:55:49  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:55:49  Procedure Type   : 13-07-2015 05:55:49  SQL_PT_FUNCTION
+13-07-2015 05:55:49  
+DSN : SQLSRV13-07-2015 05:55:49  
+Procedure Cat    : blackjack
+13-07-2015 05:55:49  Procedure Schema : dbo
+13-07-2015 05:55:49  Procedure Name   : LogNewCreate;1
+13-07-2015 05:55:49  Procedure Type   : 13-07-2015 05:55:49  SQL_PT_FUNCTION
+13-07-2015 05:55:49  Checking for new version.
+13-07-2015 05:55:49  New version found.
+13-07-2015 05:57:53  
+DSN : SQLSRV13-07-2015 05:57:53  
+Procedure Cat    : blackjack
+13-07-2015 05:57:53  Procedure Schema : dbo
+13-07-2015 05:57:53  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:57:53  Procedure Type   : 13-07-2015 05:57:53  SQL_PT_FUNCTION
+13-07-2015 05:57:53  
+DSN : SQLSRV13-07-2015 05:57:53  
+Procedure Cat    : blackjack
+13-07-2015 05:57:53  Procedure Schema : dbo
+13-07-2015 05:57:53  Procedure Name   : LogNewCreate;1
+13-07-2015 05:57:53  Procedure Type   : 13-07-2015 05:57:53  SQL_PT_FUNCTION
+13-07-2015 05:57:53  Checking for new version.
+13-07-2015 05:57:53  New version found.
+13-07-2015 05:59:26  
+DSN : SQLSRV13-07-2015 05:59:26  
+Procedure Cat    : blackjack
+13-07-2015 05:59:26  Procedure Schema : dbo
+13-07-2015 05:59:26  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 05:59:26  Procedure Type   : 13-07-2015 05:59:26  SQL_PT_FUNCTION
+13-07-2015 05:59:26  
+DSN : SQLSRV13-07-2015 05:59:26  
+Procedure Cat    : blackjack
+13-07-2015 05:59:26  Procedure Schema : dbo
+13-07-2015 05:59:26  Procedure Name   : LogNewCreate;1
+13-07-2015 05:59:26  Procedure Type   : 13-07-2015 05:59:26  SQL_PT_FUNCTION
+13-07-2015 05:59:27  Checking for new version.
+13-07-2015 05:59:27  New version found.
+13-07-2015 06:08:19  
+DSN : SQLSRV13-07-2015 06:08:19  
+Procedure Cat    : blackjack
+13-07-2015 06:08:19  Procedure Schema : dbo
+13-07-2015 06:08:19  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:08:19  Procedure Type   : 13-07-2015 06:08:19  SQL_PT_FUNCTION
+13-07-2015 06:08:19  
+DSN : SQLSRV13-07-2015 06:08:19  
+Procedure Cat    : blackjack
+13-07-2015 06:08:19  Procedure Schema : dbo
+13-07-2015 06:08:19  Procedure Name   : LogNewCreate;1
+13-07-2015 06:08:19  Procedure Type   : 13-07-2015 06:08:19  SQL_PT_FUNCTION
+13-07-2015 06:08:19  Checking for new version.
+13-07-2015 06:08:19  New version found.
+13-07-2015 06:08:43  Updater error: recreating the new directory structure failed.13-07-2015 06:09:16  
+DSN : SQLSRV13-07-2015 06:09:16  
+Procedure Cat    : blackjack
+13-07-2015 06:09:16  Procedure Schema : dbo
+13-07-2015 06:09:16  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:09:16  Procedure Type   : 13-07-2015 06:09:16  SQL_PT_FUNCTION
+13-07-2015 06:09:16  
+DSN : SQLSRV13-07-2015 06:09:16  
+Procedure Cat    : blackjack
+13-07-2015 06:09:16  Procedure Schema : dbo
+13-07-2015 06:09:16  Procedure Name   : LogNewCreate;1
+13-07-2015 06:09:16  Procedure Type   : 13-07-2015 06:09:16  SQL_PT_FUNCTION
+13-07-2015 06:09:16  Checking for new version.
+13-07-2015 06:09:16  New version found.
+13-07-2015 06:10:01  
+DSN : SQLSRV13-07-2015 06:10:01  
+Procedure Cat    : blackjack
+13-07-2015 06:10:01  Procedure Schema : dbo
+13-07-2015 06:10:01  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:10:01  Procedure Type   : 13-07-2015 06:10:01  SQL_PT_FUNCTION
+13-07-2015 06:10:01  
+DSN : SQLSRV13-07-2015 06:10:01  
+Procedure Cat    : blackjack
+13-07-2015 06:10:01  Procedure Schema : dbo
+13-07-2015 06:10:01  Procedure Name   : LogNewCreate;1
+13-07-2015 06:10:01  Procedure Type   : 13-07-2015 06:10:01  SQL_PT_FUNCTION
+13-07-2015 06:10:01  Checking for new version.
+13-07-2015 06:10:01  New version found.
+13-07-2015 06:11:14  
+DSN : SQLSRV13-07-2015 06:11:14  
+Procedure Cat    : blackjack
+13-07-2015 06:11:14  Procedure Schema : dbo
+13-07-2015 06:11:14  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:11:14  Procedure Type   : 13-07-2015 06:11:14  SQL_PT_FUNCTION
+13-07-2015 06:11:14  
+DSN : SQLSRV13-07-2015 06:11:14  
+Procedure Cat    : blackjack
+13-07-2015 06:11:14  Procedure Schema : dbo
+13-07-2015 06:11:14  Procedure Name   : LogNewCreate;1
+13-07-2015 06:11:14  Procedure Type   : 13-07-2015 06:11:14  SQL_PT_FUNCTION
+13-07-2015 06:11:14  Checking for new version.
+13-07-2015 06:11:14  New version found.
+13-07-2015 06:12:03  
+DSN : SQLSRV13-07-2015 06:12:03  
+Procedure Cat    : blackjack
+13-07-2015 06:12:03  Procedure Schema : dbo
+13-07-2015 06:12:03  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:12:03  Procedure Type   : 13-07-2015 06:12:03  SQL_PT_FUNCTION
+13-07-2015 06:12:03  
+DSN : SQLSRV13-07-2015 06:12:03  
+Procedure Cat    : blackjack
+13-07-2015 06:12:03  Procedure Schema : dbo
+13-07-2015 06:12:03  Procedure Name   : LogNewCreate;1
+13-07-2015 06:12:03  Procedure Type   : 13-07-2015 06:12:03  SQL_PT_FUNCTION
+13-07-2015 06:12:03  Checking for new version.
+13-07-2015 06:12:03  New version found.
+13-07-2015 06:13:55  
+DSN : SQLSRV13-07-2015 06:13:55  
+Procedure Cat    : blackjack
+13-07-2015 06:13:55  Procedure Schema : dbo
+13-07-2015 06:13:55  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:13:55  Procedure Type   : 13-07-2015 06:13:55  SQL_PT_FUNCTION
+13-07-2015 06:13:55  
+DSN : SQLSRV13-07-2015 06:13:55  
+Procedure Cat    : blackjack
+13-07-2015 06:13:55  Procedure Schema : dbo
+13-07-2015 06:13:55  Procedure Name   : LogNewCreate;1
+13-07-2015 06:13:55  Procedure Type   : 13-07-2015 06:13:55  SQL_PT_FUNCTION
+13-07-2015 06:13:55  Checking for new version.
+13-07-2015 06:13:55  New version found.
+13-07-2015 06:14:05  Updater error: recreating the new directory structure failed.13-07-2015 06:15:11  
+DSN : SQLSRV13-07-2015 06:15:11  
+Procedure Cat    : blackjack
+13-07-2015 06:15:11  Procedure Schema : dbo
+13-07-2015 06:15:11  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:15:11  Procedure Type   : 13-07-2015 06:15:11  SQL_PT_FUNCTION
+13-07-2015 06:15:12  
+DSN : SQLSRV13-07-2015 06:15:12  
+Procedure Cat    : blackjack
+13-07-2015 06:15:12  Procedure Schema : dbo
+13-07-2015 06:15:12  Procedure Name   : LogNewCreate;1
+13-07-2015 06:15:12  Procedure Type   : 13-07-2015 06:15:12  SQL_PT_FUNCTION
+13-07-2015 06:15:12  Checking for new version.
+13-07-2015 06:15:12  New version found.
+13-07-2015 06:16:23  
+DSN : SQLSRV13-07-2015 06:16:23  
+Procedure Cat    : blackjack
+13-07-2015 06:16:23  Procedure Schema : dbo
+13-07-2015 06:16:23  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:16:23  Procedure Type   : 13-07-2015 06:16:23  SQL_PT_FUNCTION
+13-07-2015 06:16:24  
+DSN : SQLSRV13-07-2015 06:16:24  
+Procedure Cat    : blackjack
+13-07-2015 06:16:24  Procedure Schema : dbo
+13-07-2015 06:16:24  Procedure Name   : LogNewCreate;1
+13-07-2015 06:16:24  Procedure Type   : 13-07-2015 06:16:24  SQL_PT_FUNCTION
+13-07-2015 06:16:24  Checking for new version.
+13-07-2015 06:16:24  New version found.
+13-07-2015 06:18:25  
+DSN : SQLSRV13-07-2015 06:18:25  
+Procedure Cat    : blackjack
+13-07-2015 06:18:25  Procedure Schema : dbo
+13-07-2015 06:18:25  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:18:25  Procedure Type   : 13-07-2015 06:18:25  SQL_PT_FUNCTION
+13-07-2015 06:18:25  
+DSN : SQLSRV13-07-2015 06:18:25  
+Procedure Cat    : blackjack
+13-07-2015 06:18:25  Procedure Schema : dbo
+13-07-2015 06:18:25  Procedure Name   : LogNewCreate;1
+13-07-2015 06:18:25  Procedure Type   : 13-07-2015 06:18:25  SQL_PT_FUNCTION
+13-07-2015 06:18:25  Checking for new version.
+13-07-2015 06:18:25  New version found.
+13-07-2015 06:19:45  
+DSN : SQLSRV13-07-2015 06:19:45  
+Procedure Cat    : blackjack
+13-07-2015 06:19:45  Procedure Schema : dbo
+13-07-2015 06:19:45  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:19:45  Procedure Type   : 13-07-2015 06:19:45  SQL_PT_FUNCTION
+13-07-2015 06:19:45  
+DSN : SQLSRV13-07-2015 06:19:45  
+Procedure Cat    : blackjack
+13-07-2015 06:19:45  Procedure Schema : dbo
+13-07-2015 06:19:45  Procedure Name   : LogNewCreate;1
+13-07-2015 06:19:45  Procedure Type   : 13-07-2015 06:19:45  SQL_PT_FUNCTION
+13-07-2015 06:19:45  Checking for new version.
+13-07-2015 06:19:45  New version found.
+13-07-2015 06:20:25  
+DSN : SQLSRV13-07-2015 06:20:25  
+Procedure Cat    : blackjack
+13-07-2015 06:20:25  Procedure Schema : dbo
+13-07-2015 06:20:25  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:20:25  Procedure Type   : 13-07-2015 06:20:25  SQL_PT_FUNCTION
+13-07-2015 06:20:25  
+DSN : SQLSRV13-07-2015 06:20:25  
+Procedure Cat    : blackjack
+13-07-2015 06:20:25  Procedure Schema : dbo
+13-07-2015 06:20:25  Procedure Name   : LogNewCreate;1
+13-07-2015 06:20:25  Procedure Type   : 13-07-2015 06:20:25  SQL_PT_FUNCTION
+13-07-2015 06:20:25  Checking for new version.
+13-07-2015 06:20:25  New version found.
+13-07-2015 06:24:48  
+DSN : SQLSRV13-07-2015 06:24:48  
+Procedure Cat    : blackjack
+13-07-2015 06:24:48  Procedure Schema : dbo
+13-07-2015 06:24:48  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:24:48  Procedure Type   : 13-07-2015 06:24:48  SQL_PT_FUNCTION
+13-07-2015 06:24:48  
+DSN : SQLSRV13-07-2015 06:24:48  
+Procedure Cat    : blackjack
+13-07-2015 06:24:48  Procedure Schema : dbo
+13-07-2015 06:24:48  Procedure Name   : LogNewCreate;1
+13-07-2015 06:24:48  Procedure Type   : 13-07-2015 06:24:48  SQL_PT_FUNCTION
+13-07-2015 06:24:48  Checking for new version.
+13-07-2015 06:24:48  New version found.
+13-07-2015 06:26:57  
+DSN : SQLSRV13-07-2015 06:26:57  
+Procedure Cat    : blackjack
+13-07-2015 06:26:57  Procedure Schema : dbo
+13-07-2015 06:26:57  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:26:57  Procedure Type   : 13-07-2015 06:26:57  SQL_PT_FUNCTION
+13-07-2015 06:26:57  
+DSN : SQLSRV13-07-2015 06:26:57  
+Procedure Cat    : blackjack
+13-07-2015 06:26:57  Procedure Schema : dbo
+13-07-2015 06:26:57  Procedure Name   : LogNewCreate;1
+13-07-2015 06:26:57  Procedure Type   : 13-07-2015 06:26:57  SQL_PT_FUNCTION
+13-07-2015 06:26:57  Checking for new version.
+13-07-2015 06:26:57  New version found.
+13-07-2015 06:30:18  Done update.
+13-07-2015 06:30:19  Checking for new version.
+13-07-2015 06:30:19  New version found.
+13-07-2015 06:30:19  Done update.
+13-07-2015 06:30:23  
+DSN : SQLSRV13-07-2015 06:30:23  
+Procedure Cat    : blackjack
+13-07-2015 06:30:23  Procedure Schema : dbo
+13-07-2015 06:30:23  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:30:23  Procedure Type   : 13-07-2015 06:30:23  SQL_PT_FUNCTION
+13-07-2015 06:30:24  
+DSN : SQLSRV13-07-2015 06:30:24  
+Procedure Cat    : blackjack
+13-07-2015 06:30:24  Procedure Schema : dbo
+13-07-2015 06:30:24  Procedure Name   : LogNewCreate;1
+13-07-2015 06:30:24  Procedure Type   : 13-07-2015 06:30:24  SQL_PT_FUNCTION
+13-07-2015 06:30:24  Checking for new version.
+13-07-2015 06:30:24  New version found.
+13-07-2015 06:31:21  
+DSN : SQLSRV13-07-2015 06:31:21  
+Procedure Cat    : blackjack
+13-07-2015 06:31:21  Procedure Schema : dbo
+13-07-2015 06:31:21  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 06:31:21  Procedure Type   : 13-07-2015 06:31:21  SQL_PT_FUNCTION
+13-07-2015 06:31:22  
+DSN : SQLSRV13-07-2015 06:31:22  
+Procedure Cat    : blackjack
+13-07-2015 06:31:22  Procedure Schema : dbo
+13-07-2015 06:31:22  Procedure Name   : LogNewCreate;1
+13-07-2015 06:31:22  Procedure Type   : 13-07-2015 06:31:22  SQL_PT_FUNCTION
+13-07-2015 06:31:22  Checking for new version.
+13-07-2015 06:31:22  New version found.
+13-07-2015 08:02:29  
+DSN : SQLSRV13-07-2015 08:02:29  
+Procedure Cat    : blackjack
+13-07-2015 08:02:29  Procedure Schema : dbo
+13-07-2015 08:02:29  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:02:29  Procedure Type   : 13-07-2015 08:02:29  SQL_PT_FUNCTION
+13-07-2015 08:02:29  
+DSN : SQLSRV13-07-2015 08:02:29  
+Procedure Cat    : blackjack
+13-07-2015 08:02:29  Procedure Schema : dbo
+13-07-2015 08:02:29  Procedure Name   : LogNewCreate;1
+13-07-2015 08:02:29  Procedure Type   : 13-07-2015 08:02:29  SQL_PT_FUNCTION
+13-07-2015 08:02:29  Checking for new version.
+13-07-2015 08:02:29  New version found.
+13-07-2015 08:04:22  
+DSN : SQLSRV13-07-2015 08:04:22  
+Procedure Cat    : blackjack
+13-07-2015 08:04:22  Procedure Schema : dbo
+13-07-2015 08:04:22  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:04:22  Procedure Type   : 13-07-2015 08:04:22  SQL_PT_FUNCTION
+13-07-2015 08:04:23  
+DSN : SQLSRV13-07-2015 08:04:23  
+Procedure Cat    : blackjack
+13-07-2015 08:04:23  Procedure Schema : dbo
+13-07-2015 08:04:23  Procedure Name   : LogNewCreate;1
+13-07-2015 08:04:23  Procedure Type   : 13-07-2015 08:04:23  SQL_PT_FUNCTION
+13-07-2015 08:04:23  Checking for new version.
+13-07-2015 08:04:23  New version found.
+13-07-2015 08:22:05  
+DSN : SQLSRV13-07-2015 08:22:05  
+Procedure Cat    : blackjack
+13-07-2015 08:22:05  Procedure Schema : dbo
+13-07-2015 08:22:05  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:22:05  Procedure Type   : 13-07-2015 08:22:05  SQL_PT_FUNCTION
+13-07-2015 08:22:06  
+DSN : SQLSRV13-07-2015 08:22:06  
+Procedure Cat    : blackjack
+13-07-2015 08:22:06  Procedure Schema : dbo
+13-07-2015 08:22:06  Procedure Name   : LogNewCreate;1
+13-07-2015 08:22:06  Procedure Type   : 13-07-2015 08:22:06  SQL_PT_FUNCTION
+13-07-2015 08:22:06  Checking for new version.
+13-07-2015 08:22:06  New version found.
+13-07-2015 08:27:06  
+DSN : SQLSRV13-07-2015 08:27:06  
+Procedure Cat    : blackjack
+13-07-2015 08:27:06  Procedure Schema : dbo
+13-07-2015 08:27:06  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:27:06  Procedure Type   : 13-07-2015 08:27:06  SQL_PT_FUNCTION
+13-07-2015 08:27:07  
+DSN : SQLSRV13-07-2015 08:27:07  
+Procedure Cat    : blackjack
+13-07-2015 08:27:07  Procedure Schema : dbo
+13-07-2015 08:27:07  Procedure Name   : LogNewCreate;1
+13-07-2015 08:27:07  Procedure Type   : 13-07-2015 08:27:07  SQL_PT_FUNCTION
+13-07-2015 08:27:07  Checking for new version.
+13-07-2015 08:27:07  New version found.
+13-07-2015 08:28:21  
+DSN : SQLSRV13-07-2015 08:28:21  
+Procedure Cat    : blackjack
+13-07-2015 08:28:21  Procedure Schema : dbo
+13-07-2015 08:28:21  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:28:21  Procedure Type   : 13-07-2015 08:28:21  SQL_PT_FUNCTION
+13-07-2015 08:28:22  
+DSN : SQLSRV13-07-2015 08:28:22  
+Procedure Cat    : blackjack
+13-07-2015 08:28:22  Procedure Schema : dbo
+13-07-2015 08:28:22  Procedure Name   : LogNewCreate;1
+13-07-2015 08:28:22  Procedure Type   : 13-07-2015 08:28:22  SQL_PT_FUNCTION
+13-07-2015 08:28:22  Checking for new version.
+13-07-2015 08:28:22  New version found.
+13-07-2015 08:29:08  
+DSN : SQLSRV13-07-2015 08:29:08  
+Procedure Cat    : blackjack
+13-07-2015 08:29:08  Procedure Schema : dbo
+13-07-2015 08:29:08  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:29:08  Procedure Type   : 13-07-2015 08:29:08  SQL_PT_FUNCTION
+13-07-2015 08:29:09  
+DSN : SQLSRV13-07-2015 08:29:09  
+Procedure Cat    : blackjack
+13-07-2015 08:29:09  Procedure Schema : dbo
+13-07-2015 08:29:09  Procedure Name   : LogNewCreate;1
+13-07-2015 08:29:09  Procedure Type   : 13-07-2015 08:29:09  SQL_PT_FUNCTION
+13-07-2015 08:29:09  Checking for new version.
+13-07-2015 08:29:09  New version found.
+13-07-2015 08:31:55  
+DSN : SQLSRV13-07-2015 08:31:55  
+Procedure Cat    : blackjack
+13-07-2015 08:31:55  Procedure Schema : dbo
+13-07-2015 08:31:55  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:31:55  Procedure Type   : 13-07-2015 08:31:55  SQL_PT_FUNCTION
+13-07-2015 08:31:56  
+DSN : SQLSRV13-07-2015 08:31:56  
+Procedure Cat    : blackjack
+13-07-2015 08:31:56  Procedure Schema : dbo
+13-07-2015 08:31:56  Procedure Name   : LogNewCreate;1
+13-07-2015 08:31:56  Procedure Type   : 13-07-2015 08:31:56  SQL_PT_FUNCTION
+13-07-2015 08:31:56  Checking for new version.
+13-07-2015 08:31:56  No new version found.
+13-07-2015 08:31:57  Checking for new version.
+13-07-2015 08:31:57  No new version found.
+13-07-2015 08:31:58  Checking for new version.
+13-07-2015 08:31:58  No new version found.
+13-07-2015 08:31:59  Checking for new version.
+13-07-2015 08:31:59  No new version found.
+13-07-2015 08:32:00  Checking for new version.
+13-07-2015 08:32:00  No new version found.
+13-07-2015 08:32:01  Checking for new version.
+13-07-2015 08:32:01  No new version found.
+13-07-2015 08:32:02  Checking for new version.
+13-07-2015 08:32:02  No new version found.
+13-07-2015 08:32:03  Checking for new version.
+13-07-2015 08:32:03  No new version found.
+13-07-2015 08:32:18  
+DSN : SQLSRV13-07-2015 08:32:18  
+Procedure Cat    : blackjack
+13-07-2015 08:32:18  Procedure Schema : dbo
+13-07-2015 08:32:18  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:32:18  Procedure Type   : 13-07-2015 08:32:18  SQL_PT_FUNCTION
+13-07-2015 08:32:19  
+DSN : SQLSRV13-07-2015 08:32:19  
+Procedure Cat    : blackjack
+13-07-2015 08:32:19  Procedure Schema : dbo
+13-07-2015 08:32:19  Procedure Name   : LogNewCreate;1
+13-07-2015 08:32:19  Procedure Type   : 13-07-2015 08:32:19  SQL_PT_FUNCTION
+13-07-2015 08:32:19  Checking for new version.
+13-07-2015 08:32:19  New version found.
+13-07-2015 08:33:04  
+DSN : SQLSRV13-07-2015 08:33:04  
+Procedure Cat    : blackjack
+13-07-2015 08:33:04  Procedure Schema : dbo
+13-07-2015 08:33:04  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:33:04  Procedure Type   : 13-07-2015 08:33:04  SQL_PT_FUNCTION
+13-07-2015 08:33:05  
+DSN : SQLSRV13-07-2015 08:33:05  
+Procedure Cat    : blackjack
+13-07-2015 08:33:05  Procedure Schema : dbo
+13-07-2015 08:33:05  Procedure Name   : LogNewCreate;1
+13-07-2015 08:33:05  Procedure Type   : 13-07-2015 08:33:05  SQL_PT_FUNCTION
+13-07-2015 08:33:05  Checking for new version.
+13-07-2015 08:33:05  New version found.
+13-07-2015 08:33:49  
+DSN : SQLSRV13-07-2015 08:33:49  
+Procedure Cat    : blackjack
+13-07-2015 08:33:49  Procedure Schema : dbo
+13-07-2015 08:33:49  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:33:49  Procedure Type   : 13-07-2015 08:33:49  SQL_PT_FUNCTION
+13-07-2015 08:33:50  
+DSN : SQLSRV13-07-2015 08:33:50  
+Procedure Cat    : blackjack
+13-07-2015 08:33:50  Procedure Schema : dbo
+13-07-2015 08:33:50  Procedure Name   : LogNewCreate;1
+13-07-2015 08:33:50  Procedure Type   : 13-07-2015 08:33:50  SQL_PT_FUNCTION
+13-07-2015 08:33:50  Checking for new version.
+13-07-2015 08:33:50  New version found.
+13-07-2015 08:36:59  
+DSN : SQLSRV13-07-2015 08:36:59  
+Procedure Cat    : blackjack
+13-07-2015 08:36:59  Procedure Schema : dbo
+13-07-2015 08:36:59  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:36:59  Procedure Type   : 13-07-2015 08:36:59  SQL_PT_FUNCTION
+13-07-2015 08:37:00  
+DSN : SQLSRV13-07-2015 08:37:00  
+Procedure Cat    : blackjack
+13-07-2015 08:37:00  Procedure Schema : dbo
+13-07-2015 08:37:00  Procedure Name   : LogNewCreate;1
+13-07-2015 08:37:00  Procedure Type   : 13-07-2015 08:37:00  SQL_PT_FUNCTION
+13-07-2015 08:37:00  Checking for new version.
+13-07-2015 08:37:00  New version found.
+13-07-2015 08:37:00  Service stopped so as to update.
+13-07-2015 08:37:00  Done update.
+13-07-2015 08:37:00  Service started after update.
+13-07-2015 08:37:00  Service is pending...
+13-07-2015 08:37:00  Time passed on general pending: 0.000 sec(s).
+13-07-2015 08:37:01  Service failed to start on SERVICE_PENDING.
+13-07-2015 08:37:01  Time passed on SERVICE_PENDING: 0.000 sec(s).
+13-07-2015 08:37:02  Checking for new version.
+13-07-2015 08:37:02  No new version found.
+13-07-2015 08:37:03  Checking for new version.
+13-07-2015 08:37:03  No new version found.
+13-07-2015 08:37:04  Checking for new version.
+13-07-2015 08:37:04  No new version found.
+13-07-2015 08:37:05  Checking for new version.
+13-07-2015 08:37:05  No new version found.
+13-07-2015 08:37:06  Checking for new version.
+13-07-2015 08:37:06  No new version found.
+13-07-2015 08:37:07  Checking for new version.
+13-07-2015 08:37:07  No new version found.
+13-07-2015 08:37:08  Checking for new version.
+13-07-2015 08:37:08  No new version found.
+13-07-2015 08:37:09  Checking for new version.
+13-07-2015 08:37:09  No new version found.
+13-07-2015 08:45:23  
+DSN : SQLSRV13-07-2015 08:45:23  
+Procedure Cat    : blackjack
+13-07-2015 08:45:23  Procedure Schema : dbo
+13-07-2015 08:45:23  Procedure Name   : AppInstancesSearchCreate;1
+13-07-2015 08:45:23  Procedure Type   : 13-07-2015 08:45:23  SQL_PT_FUNCTION
+13-07-2015 08:45:24  
+DSN : SQLSRV13-07-2015 08:45:24  
+Procedure Cat    : blackjack
+13-07-2015 08:45:24  Procedure Schema : dbo
+13-07-2015 08:45:24  Procedure Name   : LogNewCreate;1
+13-07-2015 08:45:24  Procedure Type   : 13-07-2015 08:45:24  SQL_PT_FUNCTION
+13-07-2015 08:45:24  Checking for new version.

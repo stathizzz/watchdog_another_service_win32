@@ -1,0 +1,10 @@
+14-07-2015 11:01:15  Connection string should be set on the configuration file.
+14-07-2015 11:01:15  OpenSCManager failed (5)
+14-07-2015 11:01:16  Connection string should be set on the configuration file.
+14-07-2015 11:01:16  OpenSCManager failed (5)
+14-07-2015 11:01:17  Connection string should be set on the configuration file.
+14-07-2015 11:01:17  OpenSCManager failed (5)
+14-07-2015 11:01:18  Connection string should be set on the configuration file.
+14-07-2015 11:01:18  OpenSCManager failed (5)
+14-07-2015 11:01:35  Connection string should be set on the configuration file.
+14-07-2015 11:05:45  Connection string should be set on the configuration file.

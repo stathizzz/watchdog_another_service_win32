@@ -1,0 +1,37 @@
+﻿Build started 7/13/2015 8:44:23 PM.
+     1>Project "C:\Users\vaderas\workspace\pp\windows_service\windows_service.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\libsll\msw\libsll.vcxproj' does not exist.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"zlib-1.2.5" /I"zlib128-dll\include" /I..\libpcre\pcre /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D PCRE_STATIC /D WIN32 /D LOADER_EXPORTS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt updater.cpp
+         updater.cpp
+     1>C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(132): warning C4005: 'PASCAL' : macro redefinition
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\Lmcons.h(45) : see previous definition of 'PASCAL'
+     1>c:\users\vaderas\workspace\pp\windows_service\odbc.h(124): warning C4190: 'ExePath' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+     1>updater.cpp(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(182): warning C4101: 'result' : unreferenced local variable
+     1>updater.cpp(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(250): warning C4101: 'delete_status' : unreferenced local variable
+     1>updater.cpp(280): warning C4101: 'copy_status' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Win32\Release\windows_service.exe" /NOLOGO /LIBPATH:.\Win32\Release\ zlibwapi.lib "zlib128-dll/lib/zdll.lib" winmm.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Win32\Release\windows_service.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Win32\Release\windows_service.lib" /MACHINE:X86 /SAFESEH Win32\Release\boyermoore.obj
+         Win32\Release\io.obj
+         Win32\Release\kill_process.obj
+         Win32\Release\loader.obj
+         Win32\Release\main.obj
+         Win32\Release\odbc.obj
+         Win32\Release\updater.obj
+            Creating library Win32\Release\windows_service.lib and object Win32\Release\windows_service.exp
+         Generating code
+         Finished generating code
+         windows_service.vcxproj -> C:\Users\vaderas\workspace\pp\windows_service\Win32\Release\windows_service.exe
+     1>Done Building Project "C:\Users\vaderas\workspace\pp\windows_service\windows_service.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.49

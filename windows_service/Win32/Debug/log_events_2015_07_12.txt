@@ -1,0 +1,926 @@
+12-07-2015 03:04:46  Checking for new version.
+12-07-2015 03:04:46  Required jar file for update not found on destination.
+12-07-2015 03:04:49  Checking for new version.
+12-07-2015 03:04:49  Required jar file for update not found on destination.
+12-07-2015 03:04:52  Checking for new version.
+12-07-2015 03:04:52  Required jar file for update not found on destination.
+12-07-2015 03:04:55  Checking for new version.
+12-07-2015 03:04:55  Required jar file for update not found on destination.
+12-07-2015 03:04:58  Checking for new version.
+12-07-2015 03:04:58  Required jar file for update not found on destination.
+12-07-2015 03:05:01  Checking for new version.
+12-07-2015 03:05:01  Required jar file for update not found on destination.
+12-07-2015 03:05:04  Checking for new version.
+12-07-2015 03:05:04  Required jar file for update not found on destination.
+12-07-2015 03:05:07  Checking for new version.
+12-07-2015 03:05:07  Required jar file for update not found on destination.
+12-07-2015 03:05:10  Checking for new version.
+12-07-2015 03:05:10  Required jar file for update not found on destination.
+12-07-2015 03:05:13  Checking for new version.
+12-07-2015 03:05:13  Required jar file for update not found on destination.
+12-07-2015 03:05:16  Checking for new version.
+12-07-2015 03:05:16  Required jar file for update not found on destination.
+12-07-2015 03:05:19  Checking for new version.
+12-07-2015 03:05:19  Required jar file for update not found on destination.
+12-07-2015 03:05:22  Checking for new version.
+12-07-2015 03:05:22  Required jar file for update not found on destination.
+12-07-2015 03:05:25  Checking for new version.
+12-07-2015 03:05:25  Required jar file for update not found on destination.
+12-07-2015 03:05:28  Checking for new version.
+12-07-2015 03:05:28  Required jar file for update not found on destination.
+12-07-2015 03:05:31  Checking for new version.
+12-07-2015 03:05:31  Required jar file for update not found on destination.
+12-07-2015 03:05:34  Checking for new version.
+12-07-2015 03:05:34  Required jar file for update not found on destination.
+12-07-2015 03:05:34  Service is stopped. Trying database logging
+12-07-2015 03:05:34  
+DSN : SQLSRV12-07-2015 03:05:34  
+Procedure Cat    : blackjack
+12-07-2015 03:05:34  Procedure Schema : dbo
+12-07-2015 03:05:34  Procedure Name   : AppInstancesSearchCreate;1
+12-07-2015 03:05:34  Procedure Type   : 12-07-2015 03:05:34  SQL_PT_FUNCTION
+12-07-2015 03:05:34  
+DSN : SQLSRV12-07-2015 03:05:34  
+Procedure Cat    : blackjack
+12-07-2015 03:05:34  Procedure Schema : dbo
+12-07-2015 03:05:34  Procedure Name   : AppInstancesSetState;1
+12-07-2015 03:05:34  Procedure Type   : 12-07-2015 03:05:34  SQL_PT_FUNCTION
+12-07-2015 03:05:35  
+DSN : SQLSRV12-07-2015 03:05:35  
+Procedure Cat    : blackjack
+12-07-2015 03:05:35  Procedure Schema : dbo
+12-07-2015 03:05:35  Procedure Name   : AppEventsCreate;1
+12-07-2015 03:05:35  Procedure Type   : 12-07-2015 03:05:35  SQL_PT_FUNCTION
+12-07-2015 03:05:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Unfinished event not found
+12-07-2015 03:05:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Unfinished event not found
+12-07-2015 03:05:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Unfinished event not found
+12-07-2015 03:05:35  Failed database event logging.
+12-07-2015 03:05:35  Service started.
+12-07-2015 03:05:38  Checking for new version.
+12-07-2015 03:05:38  Required jar file for update not found on destination.
+12-07-2015 03:05:41  Checking for new version.
+12-07-2015 03:05:41  Required jar file for update not found on destination.
+12-07-2015 03:05:44  Checking for new version.
+12-07-2015 03:05:44  Required jar file for update not found on destination.
+12-07-2015 03:05:47  Checking for new version.
+12-07-2015 03:05:47  Required jar file for update not found on destination.
+12-07-2015 03:05:50  Checking for new version.
+12-07-2015 03:05:50  Required jar file for update not found on destination.
+12-07-2015 03:05:53  Checking for new version.
+12-07-2015 03:05:53  Required jar file for update not found on destination.
+12-07-2015 03:05:56  Checking for new version.
+12-07-2015 03:05:56  Required jar file for update not found on destination.
+12-07-2015 03:05:59  Checking for new version.
+12-07-2015 03:05:59  Required jar file for update not found on destination.
+12-07-2015 03:06:02  Checking for new version.
+12-07-2015 03:06:02  Required jar file for update not found on destination.
+12-07-2015 03:06:05  Checking for new version.
+12-07-2015 03:06:05  Required jar file for update not found on destination.
+12-07-2015 03:06:08  Checking for new version.
+12-07-2015 03:06:08  Required jar file for update not found on destination.
+12-07-2015 03:06:11  Checking for new version.
+12-07-2015 03:06:11  Required jar file for update not found on destination.
+12-07-2015 03:06:14  Checking for new version.
+12-07-2015 03:06:14  Required jar file for update not found on destination.
+12-07-2015 03:07:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:35  Checking for new version.
+12-07-2015 03:07:36  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:36  Required jar file for update not found on destination.
+12-07-2015 03:07:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:37  Checking for new version.
+12-07-2015 03:07:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:38  Required jar file for update not found on destination.
+12-07-2015 03:07:40  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:40  Checking for new version.
+12-07-2015 03:07:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:41  Required jar file for update not found on destination.
+12-07-2015 03:07:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:43  Checking for new version.
+12-07-2015 03:07:44  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:44  Required jar file for update not found on destination.
+12-07-2015 03:07:46  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:46  Checking for new version.
+12-07-2015 03:07:47  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:47  Required jar file for update not found on destination.
+12-07-2015 03:07:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:50  Checking for new version.
+12-07-2015 03:07:51  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:51  Required jar file for update not found on destination.
+12-07-2015 03:07:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:07:54  Checking for new version.
+12-07-2015 03:12:09  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:09  Checking for new version.
+12-07-2015 03:12:09  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:09  Required jar file for update not found on destination.
+12-07-2015 03:12:12  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:12  Checking for new version.
+12-07-2015 03:12:13  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:13  Required jar file for update not found on destination.
+12-07-2015 03:12:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:15  Checking for new version.
+12-07-2015 03:12:16  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:16  Required jar file for update not found on destination.
+12-07-2015 03:12:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:19  Checking for new version.
+12-07-2015 03:12:20  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:20  Required jar file for update not found on destination.
+12-07-2015 03:12:22  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:22  Checking for new version.
+12-07-2015 03:12:22  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:22  Required jar file for update not found on destination.
+12-07-2015 03:12:26  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:26  Checking for new version.
+12-07-2015 03:12:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:27  Required jar file for update not found on destination.
+12-07-2015 03:12:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:30  Checking for new version.
+12-07-2015 03:12:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:30  Required jar file for update not found on destination.
+12-07-2015 03:12:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:34  Checking for new version.
+12-07-2015 03:12:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:34  Required jar file for update not found on destination.
+12-07-2015 03:12:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:37  Checking for new version.
+12-07-2015 03:12:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:37  Required jar file for update not found on destination.
+12-07-2015 03:12:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:41  Checking for new version.
+12-07-2015 03:12:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:41  Required jar file for update not found on destination.
+12-07-2015 03:12:44  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:44  Checking for new version.
+12-07-2015 03:12:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:45  Required jar file for update not found on destination.
+12-07-2015 03:12:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:49  Checking for new version.
+12-07-2015 03:12:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:50  Required jar file for update not found on destination.
+12-07-2015 03:12:52  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:52  Checking for new version.
+12-07-2015 03:12:52  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:52  Required jar file for update not found on destination.
+12-07-2015 03:12:56  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:56  Checking for new version.
+12-07-2015 03:12:57  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:57  Required jar file for update not found on destination.
+12-07-2015 03:12:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:59  Checking for new version.
+12-07-2015 03:12:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:12:59  Required jar file for update not found on destination.
+12-07-2015 03:13:04  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:04  Checking for new version.
+12-07-2015 03:13:04  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:04  Required jar file for update not found on destination.
+12-07-2015 03:13:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:27  Checking for new version.
+12-07-2015 03:13:28  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:28  Required jar file for update not found on destination.
+12-07-2015 03:13:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:30  Checking for new version.
+12-07-2015 03:13:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:30  Required jar file for update not found on destination.
+12-07-2015 03:13:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:34  Checking for new version.
+12-07-2015 03:13:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:34  Required jar file for update not found on destination.
+12-07-2015 03:13:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:38  Checking for new version.
+12-07-2015 03:13:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:38  Required jar file for update not found on destination.
+12-07-2015 03:13:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:41  Checking for new version.
+12-07-2015 03:13:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:41  Required jar file for update not found on destination.
+12-07-2015 03:13:44  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:44  Checking for new version.
+12-07-2015 03:13:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:45  Required jar file for update not found on destination.
+12-07-2015 03:13:48  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:48  Checking for new version.
+12-07-2015 03:13:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:49  Required jar file for update not found on destination.
+12-07-2015 03:13:52  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:52  Checking for new version.
+12-07-2015 03:13:52  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:52  Required jar file for update not found on destination.
+12-07-2015 03:13:56  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:56  Checking for new version.
+12-07-2015 03:13:56  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:56  Required jar file for update not found on destination.
+12-07-2015 03:13:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:13:59  Checking for new version.
+12-07-2015 03:14:00  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:00  Required jar file for update not found on destination.
+12-07-2015 03:14:03  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:03  Checking for new version.
+12-07-2015 03:14:03  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:03  Required jar file for update not found on destination.
+12-07-2015 03:14:07  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:07  Checking for new version.
+12-07-2015 03:14:07  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:07  Required jar file for update not found on destination.
+12-07-2015 03:14:10  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:10  Checking for new version.
+12-07-2015 03:14:11  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:11  Required jar file for update not found on destination.
+12-07-2015 03:14:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:15  Checking for new version.
+12-07-2015 03:14:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:15  Required jar file for update not found on destination.
+12-07-2015 03:14:18  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:18  Checking for new version.
+12-07-2015 03:14:18  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:18  Required jar file for update not found on destination.
+12-07-2015 03:14:21  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:21  Checking for new version.
+12-07-2015 03:14:21  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:21  Required jar file for update not found on destination.
+12-07-2015 03:14:25  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:25  Checking for new version.
+12-07-2015 03:14:25  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:25  Required jar file for update not found on destination.
+12-07-2015 03:14:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:27  Checking for new version.
+12-07-2015 03:14:28  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:28  Required jar file for update not found on destination.
+12-07-2015 03:14:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:32  Checking for new version.
+12-07-2015 03:14:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:32  Required jar file for update not found on destination.
+12-07-2015 03:14:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:34  Checking for new version.
+12-07-2015 03:14:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:35  Required jar file for update not found on destination.
+12-07-2015 03:14:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:38  Checking for new version.
+12-07-2015 03:14:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:39  Required jar file for update not found on destination.
+12-07-2015 03:14:42  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:42  Checking for new version.
+12-07-2015 03:14:42  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:42  Required jar file for update not found on destination.
+12-07-2015 03:14:46  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:46  Checking for new version.
+12-07-2015 03:14:46  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:46  Required jar file for update not found on destination.
+12-07-2015 03:14:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:49  Checking for new version.
+12-07-2015 03:14:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:50  Required jar file for update not found on destination.
+12-07-2015 03:14:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:53  Checking for new version.
+12-07-2015 03:14:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:53  Required jar file for update not found on destination.
+12-07-2015 03:14:57  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:57  Checking for new version.
+12-07-2015 03:14:58  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:14:58  Required jar file for update not found on destination.
+12-07-2015 03:15:00  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:00  Checking for new version.
+12-07-2015 03:15:01  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:01  Required jar file for update not found on destination.
+12-07-2015 03:15:18  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:18  Checking for new version.
+12-07-2015 03:15:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:19  Required jar file for update not found on destination.
+12-07-2015 03:15:20  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:20  Checking for new version.
+12-07-2015 03:15:21  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:21  Required jar file for update not found on destination.
+12-07-2015 03:15:23  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:23  Checking for new version.
+12-07-2015 03:15:23  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:23  Required jar file for update not found on destination.
+12-07-2015 03:15:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:27  Checking for new version.
+12-07-2015 03:15:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:27  Required jar file for update not found on destination.
+12-07-2015 03:15:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:31  Checking for new version.
+12-07-2015 03:15:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:32  Required jar file for update not found on destination.
+12-07-2015 03:15:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:35  Checking for new version.
+12-07-2015 03:15:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:35  Required jar file for update not found on destination.
+12-07-2015 03:15:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:39  Checking for new version.
+12-07-2015 03:15:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 03:15:39  Required jar file for update not found on destination.
+12-07-2015 09:23:58  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:23:58  Checking for new version.
+12-07-2015 09:25:16  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:25:16  Required jar file for update not found on destination.
+12-07-2015 09:25:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:25:32  Checking for new version.
+12-07-2015 09:26:33  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:26:33  Checking for new version.
+12-07-2015 09:27:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:27:37  Checking for new version.
+12-07-2015 09:28:08  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:28:08  Checking for new version.
+12-07-2015 09:45:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:45:27  Checking for new version.
+12-07-2015 09:47:01  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 09:47:01  Checking for new version.
+12-07-2015 10:16:29  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 10:16:29  Checking for new version.
+12-07-2015 10:16:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 10:16:30  Required jar file for update not found on destination.
+12-07-2015 11:12:26  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:26  Checking for new version.
+12-07-2015 11:12:26  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:26  Required jar file for update not found on destination.
+12-07-2015 11:12:28  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:28  Checking for new version.
+12-07-2015 11:12:29  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:29  Required jar file for update not found on destination.
+12-07-2015 11:12:30  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:30  Checking for new version.
+12-07-2015 11:12:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:31  Required jar file for update not found on destination.
+12-07-2015 11:12:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:32  Checking for new version.
+12-07-2015 11:12:32  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:32  Required jar file for update not found on destination.
+12-07-2015 11:12:34  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:34  Checking for new version.
+12-07-2015 11:12:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:35  Required jar file for update not found on destination.
+12-07-2015 11:12:36  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:36  Checking for new version.
+12-07-2015 11:12:36  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:36  Required jar file for update not found on destination.
+12-07-2015 11:12:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:38  Checking for new version.
+12-07-2015 11:12:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:38  Required jar file for update not found on destination.
+12-07-2015 11:12:40  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:40  Checking for new version.
+12-07-2015 11:12:42  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:42  Required jar file for update not found on destination.
+12-07-2015 11:12:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:43  Checking for new version.
+12-07-2015 11:12:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:43  Required jar file for update not found on destination.
+12-07-2015 11:12:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:45  Checking for new version.
+12-07-2015 11:12:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:45  Required jar file for update not found on destination.
+12-07-2015 11:12:47  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:47  Checking for new version.
+12-07-2015 11:12:47  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:47  Required jar file for update not found on destination.
+12-07-2015 11:12:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:49  Checking for new version.
+12-07-2015 11:12:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:49  Required jar file for update not found on destination.
+12-07-2015 11:12:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:50  Checking for new version.
+12-07-2015 11:12:51  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:51  Required jar file for update not found on destination.
+12-07-2015 11:12:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:53  Checking for new version.
+12-07-2015 11:12:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:53  Required jar file for update not found on destination.
+12-07-2015 11:12:54  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:54  Checking for new version.
+12-07-2015 11:12:55  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:55  Required jar file for update not found on destination.
+12-07-2015 11:12:56  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:56  Checking for new version.
+12-07-2015 11:12:57  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:57  Required jar file for update not found on destination.
+12-07-2015 11:12:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:59  Checking for new version.
+12-07-2015 11:12:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:12:59  Required jar file for update not found on destination.
+12-07-2015 11:13:01  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:01  Checking for new version.
+12-07-2015 11:13:01  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:01  Required jar file for update not found on destination.
+12-07-2015 11:13:02  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:02  Checking for new version.
+12-07-2015 11:13:03  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:03  Required jar file for update not found on destination.
+12-07-2015 11:13:05  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:05  Checking for new version.
+12-07-2015 11:13:05  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:05  Required jar file for update not found on destination.
+12-07-2015 11:13:07  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:07  Checking for new version.
+12-07-2015 11:13:07  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:07  Required jar file for update not found on destination.
+12-07-2015 11:13:09  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:09  Checking for new version.
+12-07-2015 11:13:09  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:09  Required jar file for update not found on destination.
+12-07-2015 11:13:11  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:11  Checking for new version.
+12-07-2015 11:13:11  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:11  Required jar file for update not found on destination.
+12-07-2015 11:13:12  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:12  Checking for new version.
+12-07-2015 11:13:13  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:13  Required jar file for update not found on destination.
+12-07-2015 11:13:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:15  Checking for new version.
+12-07-2015 11:13:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:15  Required jar file for update not found on destination.
+12-07-2015 11:13:17  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:17  Checking for new version.
+12-07-2015 11:13:17  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:17  Required jar file for update not found on destination.
+12-07-2015 11:13:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:19  Checking for new version.
+12-07-2015 11:13:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:19  Required jar file for update not found on destination.
+12-07-2015 11:13:20  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:20  Checking for new version.
+12-07-2015 11:13:21  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:21  Required jar file for update not found on destination.
+12-07-2015 11:13:23  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:23  Checking for new version.
+12-07-2015 11:13:23  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:23  Required jar file for update not found on destination.
+12-07-2015 11:13:25  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:25  Checking for new version.
+12-07-2015 11:13:25  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:25  Required jar file for update not found on destination.
+12-07-2015 11:13:26  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:26  Checking for new version.
+12-07-2015 11:13:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:27  Required jar file for update not found on destination.
+12-07-2015 11:13:28  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:28  Checking for new version.
+12-07-2015 11:13:29  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:29  Required jar file for update not found on destination.
+12-07-2015 11:13:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:31  Checking for new version.
+12-07-2015 11:13:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:31  Required jar file for update not found on destination.
+12-07-2015 11:13:33  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:33  Checking for new version.
+12-07-2015 11:13:33  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:33  Required jar file for update not found on destination.
+12-07-2015 11:13:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:35  Checking for new version.
+12-07-2015 11:13:36  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:36  Required jar file for update not found on destination.
+12-07-2015 11:13:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:37  Checking for new version.
+12-07-2015 11:13:38  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:38  Required jar file for update not found on destination.
+12-07-2015 11:13:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:39  Checking for new version.
+12-07-2015 11:13:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:39  Required jar file for update not found on destination.
+12-07-2015 11:13:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:41  Checking for new version.
+12-07-2015 11:13:42  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:42  Required jar file for update not found on destination.
+12-07-2015 11:13:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:43  Checking for new version.
+12-07-2015 11:13:44  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:44  Required jar file for update not found on destination.
+12-07-2015 11:13:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:45  Checking for new version.
+12-07-2015 11:13:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:45  Required jar file for update not found on destination.
+12-07-2015 11:13:47  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:47  Checking for new version.
+12-07-2015 11:13:48  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:48  Required jar file for update not found on destination.
+12-07-2015 11:13:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:50  Checking for new version.
+12-07-2015 11:13:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:50  Required jar file for update not found on destination.
+12-07-2015 11:13:51  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:51  Checking for new version.
+12-07-2015 11:13:52  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:52  Required jar file for update not found on destination.
+12-07-2015 11:13:53  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:53  Checking for new version.
+12-07-2015 11:13:54  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:54  Required jar file for update not found on destination.
+12-07-2015 11:13:55  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:55  Checking for new version.
+12-07-2015 11:13:56  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:56  Required jar file for update not found on destination.
+12-07-2015 11:13:58  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:58  Checking for new version.
+12-07-2015 11:13:59  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:13:59  Required jar file for update not found on destination.
+12-07-2015 11:14:00  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:00  Checking for new version.
+12-07-2015 11:14:00  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:00  Required jar file for update not found on destination.
+12-07-2015 11:14:02  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:02  Checking for new version.
+12-07-2015 11:14:02  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:02  Required jar file for update not found on destination.
+12-07-2015 11:14:04  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:04  Checking for new version.
+12-07-2015 11:14:05  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:05  Required jar file for update not found on destination.
+12-07-2015 11:14:06  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:06  Checking for new version.
+12-07-2015 11:14:07  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:07  Required jar file for update not found on destination.
+12-07-2015 11:14:08  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:08  Checking for new version.
+12-07-2015 11:14:09  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:09  Required jar file for update not found on destination.
+12-07-2015 11:14:11  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:11  Checking for new version.
+12-07-2015 11:14:11  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:11  Required jar file for update not found on destination.
+12-07-2015 11:14:13  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:13  Checking for new version.
+12-07-2015 11:14:13  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:13  Required jar file for update not found on destination.
+12-07-2015 11:14:14  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:14  Checking for new version.
+12-07-2015 11:14:15  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:15  Required jar file for update not found on destination.
+12-07-2015 11:14:17  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:17  Checking for new version.
+12-07-2015 11:14:17  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:17  Required jar file for update not found on destination.
+12-07-2015 11:14:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:19  Checking for new version.
+12-07-2015 11:14:19  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:19  Required jar file for update not found on destination.
+12-07-2015 11:14:20  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:20  Checking for new version.
+12-07-2015 11:14:22  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:22  Required jar file for update not found on destination.
+12-07-2015 11:14:23  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:23  Checking for new version.
+12-07-2015 11:14:24  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:24  Required jar file for update not found on destination.
+12-07-2015 11:14:25  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:25  Checking for new version.
+12-07-2015 11:14:26  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:26  Required jar file for update not found on destination.
+12-07-2015 11:14:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:27  Checking for new version.
+12-07-2015 11:14:27  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:27  Required jar file for update not found on destination.
+12-07-2015 11:14:29  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:29  Checking for new version.
+12-07-2015 11:14:29  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:29  Required jar file for update not found on destination.
+12-07-2015 11:14:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:31  Checking for new version.
+12-07-2015 11:14:31  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:31  Required jar file for update not found on destination.
+12-07-2015 11:14:33  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:33  Checking for new version.
+12-07-2015 11:14:33  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:33  Required jar file for update not found on destination.
+12-07-2015 11:14:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:35  Checking for new version.
+12-07-2015 11:14:35  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:35  Required jar file for update not found on destination.
+12-07-2015 11:14:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:37  Checking for new version.
+12-07-2015 11:14:37  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:37  Required jar file for update not found on destination.
+12-07-2015 11:14:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:39  Checking for new version.
+12-07-2015 11:14:39  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:39  Required jar file for update not found on destination.
+12-07-2015 11:14:41  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:41  Checking for new version.
+12-07-2015 11:14:42  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:42  Required jar file for update not found on destination.
+12-07-2015 11:14:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:43  Checking for new version.
+12-07-2015 11:14:43  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:43  Required jar file for update not found on destination.
+12-07-2015 11:14:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:45  Checking for new version.
+12-07-2015 11:14:45  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:45  Required jar file for update not found on destination.
+12-07-2015 11:14:47  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:47  Checking for new version.
+12-07-2015 11:14:48  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:48  Required jar file for update not found on destination.
+12-07-2015 11:14:49  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:49  Checking for new version.
+12-07-2015 11:14:50  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:50  Required jar file for update not found on destination.
+12-07-2015 11:14:51  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:51  Checking for new version.
+12-07-2015 11:14:51  [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+12-07-2015 11:14:51  Required jar file for update not found on destination.
+12-07-2015 11:14:52  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:52  Checking for new version.
+12-07-2015 11:14:52  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:52  Required jar file for update not found on destination.
+12-07-2015 11:14:53  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:53  Checking for new version.
+12-07-2015 11:14:53  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:53  Required jar file for update not found on destination.
+12-07-2015 11:14:54  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:54  Checking for new version.
+12-07-2015 11:14:54  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:54  Required jar file for update not found on destination.
+12-07-2015 11:14:55  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:55  Checking for new version.
+12-07-2015 11:14:55  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:55  Required jar file for update not found on destination.
+12-07-2015 11:14:56  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:56  Checking for new version.
+12-07-2015 11:14:56  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:56  Required jar file for update not found on destination.
+12-07-2015 11:14:57  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:57  Checking for new version.
+12-07-2015 11:14:57  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:57  Required jar file for update not found on destination.
+12-07-2015 11:14:58  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:58  Checking for new version.
+12-07-2015 11:14:58  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:58  Required jar file for update not found on destination.
+12-07-2015 11:14:59  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:59  Checking for new version.
+12-07-2015 11:14:59  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:14:59  Required jar file for update not found on destination.
+12-07-2015 11:15:00  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:00  Checking for new version.
+12-07-2015 11:15:00  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:00  Required jar file for update not found on destination.
+12-07-2015 11:15:01  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:01  Checking for new version.
+12-07-2015 11:15:01  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:01  Required jar file for update not found on destination.
+12-07-2015 11:15:02  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:02  Checking for new version.
+12-07-2015 11:15:02  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:02  Required jar file for update not found on destination.
+12-07-2015 11:15:03  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:03  Checking for new version.
+12-07-2015 11:15:03  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:03  Required jar file for update not found on destination.
+12-07-2015 11:15:04  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:04  Checking for new version.
+12-07-2015 11:15:04  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:04  Required jar file for update not found on destination.
+12-07-2015 11:15:05  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:05  Checking for new version.
+12-07-2015 11:15:05  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:05  Required jar file for update not found on destination.
+12-07-2015 11:15:06  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:06  Checking for new version.
+12-07-2015 11:15:06  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:06  Required jar file for update not found on destination.
+12-07-2015 11:15:07  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:07  Checking for new version.
+12-07-2015 11:15:07  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:07  Required jar file for update not found on destination.
+12-07-2015 11:15:08  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:08  Checking for new version.
+12-07-2015 11:15:08  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:08  Required jar file for update not found on destination.
+12-07-2015 11:15:09  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:09  Checking for new version.
+12-07-2015 11:15:09  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:09  Required jar file for update not found on destination.
+12-07-2015 11:15:10  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:10  Checking for new version.
+12-07-2015 11:15:10  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:10  Required jar file for update not found on destination.
+12-07-2015 11:15:11  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:11  Checking for new version.
+12-07-2015 11:15:11  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:11  Required jar file for update not found on destination.
+12-07-2015 11:15:12  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:12  Checking for new version.
+12-07-2015 11:15:12  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:12  Required jar file for update not found on destination.
+12-07-2015 11:15:13  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:13  Checking for new version.
+12-07-2015 11:15:13  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:13  Required jar file for update not found on destination.
+12-07-2015 11:15:14  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:14  Checking for new version.
+12-07-2015 11:15:14  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:14  Required jar file for update not found on destination.
+12-07-2015 11:15:15  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:15  Checking for new version.
+12-07-2015 11:15:15  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:15  Required jar file for update not found on destination.
+12-07-2015 11:15:16  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:17  Checking for new version.
+12-07-2015 11:15:17  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:17  Required jar file for update not found on destination.
+12-07-2015 11:15:18  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:18  Checking for new version.
+12-07-2015 11:15:18  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:18  Required jar file for update not found on destination.
+12-07-2015 11:15:19  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:19  Checking for new version.
+12-07-2015 11:15:19  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:19  Required jar file for update not found on destination.
+12-07-2015 11:15:20  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:20  Checking for new version.
+12-07-2015 11:15:20  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:20  Required jar file for update not found on destination.
+12-07-2015 11:15:21  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:21  Checking for new version.
+12-07-2015 11:15:21  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:21  Required jar file for update not found on destination.
+12-07-2015 11:15:22  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:22  Checking for new version.
+12-07-2015 11:15:22  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:22  Required jar file for update not found on destination.
+12-07-2015 11:15:23  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:23  Checking for new version.
+12-07-2015 11:15:23  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:23  Required jar file for update not found on destination.
+12-07-2015 11:15:24  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:24  Checking for new version.
+12-07-2015 11:15:24  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:24  Required jar file for update not found on destination.
+12-07-2015 11:15:25  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:25  Checking for new version.
+12-07-2015 11:15:25  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:25  Required jar file for update not found on destination.
+12-07-2015 11:15:26  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:26  Checking for new version.
+12-07-2015 11:15:26  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:26  Required jar file for update not found on destination.
+12-07-2015 11:15:27  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:27  Checking for new version.
+12-07-2015 11:15:27  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:27  Required jar file for update not found on destination.
+12-07-2015 11:15:28  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:28  Checking for new version.
+12-07-2015 11:15:28  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:28  Required jar file for update not found on destination.
+12-07-2015 11:15:29  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:29  Checking for new version.
+12-07-2015 11:15:29  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:29  Required jar file for update not found on destination.
+12-07-2015 11:15:30  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:30  Checking for new version.
+12-07-2015 11:15:30  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:30  Required jar file for update not found on destination.
+12-07-2015 11:15:31  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:31  Checking for new version.
+12-07-2015 11:15:31  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:31  Required jar file for update not found on destination.
+12-07-2015 11:15:32  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:32  Checking for new version.
+12-07-2015 11:15:32  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:32  Required jar file for update not found on destination.
+12-07-2015 11:15:33  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:33  Checking for new version.
+12-07-2015 11:15:33  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:33  Required jar file for update not found on destination.
+12-07-2015 11:15:34  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:34  Checking for new version.
+12-07-2015 11:15:34  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:34  Required jar file for update not found on destination.
+12-07-2015 11:15:35  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:35  Checking for new version.
+12-07-2015 11:15:35  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:35  Required jar file for update not found on destination.
+12-07-2015 11:15:36  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:36  Checking for new version.
+12-07-2015 11:15:36  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:36  Required jar file for update not found on destination.
+12-07-2015 11:15:37  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:37  Checking for new version.
+12-07-2015 11:15:37  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:37  Required jar file for update not found on destination.
+12-07-2015 11:15:38  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:38  Checking for new version.
+12-07-2015 11:15:38  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:38  Required jar file for update not found on destination.
+12-07-2015 11:15:39  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:39  Checking for new version.
+12-07-2015 11:15:39  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:39  Required jar file for update not found on destination.
+12-07-2015 11:15:40  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:40  Checking for new version.
+12-07-2015 11:15:40  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:40  Required jar file for update not found on destination.
+12-07-2015 11:15:41  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:41  Checking for new version.
+12-07-2015 11:15:41  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:41  Required jar file for update not found on destination.
+12-07-2015 11:15:42  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:42  Checking for new version.
+12-07-2015 11:15:42  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:42  Required jar file for update not found on destination.
+12-07-2015 11:15:43  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:43  Checking for new version.
+12-07-2015 11:15:43  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:43  Required jar file for update not found on destination.
+12-07-2015 11:15:44  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:44  Checking for new version.
+12-07-2015 11:15:44  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:44  Required jar file for update not found on destination.
+12-07-2015 11:15:45  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:45  Checking for new version.
+12-07-2015 11:15:45  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:45  Required jar file for update not found on destination.
+12-07-2015 11:15:46  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:46  Checking for new version.
+12-07-2015 11:15:46  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:46  Required jar file for update not found on destination.
+12-07-2015 11:15:47  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:47  Checking for new version.
+12-07-2015 11:15:47  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:47  Required jar file for update not found on destination.
+12-07-2015 11:15:48  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:48  Checking for new version.
+12-07-2015 11:15:48  [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+12-07-2015 11:15:48  Required jar file for update not found on destination.
+12-07-2015 11:15:49  
+DSN : SQLSRV12-07-2015 11:15:49  
+Procedure Cat    : blackjack
+12-07-2015 11:15:49  Procedure Schema : dbo
+12-07-2015 11:15:49  Procedure Name   : AppInstancesSearchCreate;1
+12-07-2015 11:15:49  Procedure Type   : 12-07-2015 11:15:49  SQL_PT_FUNCTION
+12-07-2015 11:15:50  
+DSN : SQLSRV12-07-2015 11:15:50  
+Procedure Cat    : blackjack
+12-07-2015 11:15:50  Procedure Schema : dbo
+12-07-2015 11:15:50  Procedure Name   : LogNewCreate;1
+12-07-2015 11:15:50  Procedure Type   : 12-07-2015 11:15:50  SQL_PT_FUNCTION
+12-07-2015 11:15:50  Checking for new version.
+12-07-2015 11:15:50  Required jar file for update not found on destination.
+12-07-2015 11:15:51  Checking for new version.
+12-07-2015 11:15:51  Required jar file for update not found on destination.
+12-07-2015 11:15:52  Checking for new version.
+12-07-2015 11:15:52  Required jar file for update not found on destination.
+12-07-2015 11:15:53  Checking for new version.
+12-07-2015 11:15:53  Required jar file for update not found on destination.
+12-07-2015 11:15:54  Checking for new version.
+12-07-2015 11:15:54  Required jar file for update not found on destination.
+12-07-2015 11:15:55  Checking for new version.
+12-07-2015 11:15:55  Required jar file for update not found on destination.
+12-07-2015 11:15:56  Checking for new version.
+12-07-2015 11:15:56  Required jar file for update not found on destination.
+12-07-2015 11:15:57  Checking for new version.
+12-07-2015 11:15:57  Required jar file for update not found on destination.
+12-07-2015 11:15:58  Checking for new version.
+12-07-2015 11:15:58  Required jar file for update not found on destination.
+12-07-2015 11:15:59  Checking for new version.
+12-07-2015 11:15:59  Required jar file for update not found on destination.
+12-07-2015 11:16:00  Checking for new version.
+12-07-2015 11:16:00  Required jar file for update not found on destination.
+12-07-2015 11:16:01  Checking for new version.
+12-07-2015 11:16:01  Required jar file for update not found on destination.
+12-07-2015 11:16:02  Checking for new version.
+12-07-2015 11:16:02  Required jar file for update not found on destination.
+12-07-2015 11:16:03  Checking for new version.
+12-07-2015 11:16:03  Required jar file for update not found on destination.
+12-07-2015 11:16:04  Checking for new version.
+12-07-2015 11:16:04  Required jar file for update not found on destination.
+12-07-2015 11:16:05  Checking for new version.
+12-07-2015 11:16:05  Required jar file for update not found on destination.
+12-07-2015 11:16:06  Checking for new version.
+12-07-2015 11:16:06  Required jar file for update not found on destination.
+12-07-2015 11:16:07  Checking for new version.
+12-07-2015 11:16:07  Required jar file for update not found on destination.
+12-07-2015 11:16:08  Checking for new version.
+12-07-2015 11:16:08  Required jar file for update not found on destination.
+12-07-2015 11:16:09  Checking for new version.
+12-07-2015 11:16:09  Required jar file for update not found on destination.
+12-07-2015 11:16:10  Checking for new version.
+12-07-2015 11:16:10  Required jar file for update not found on destination.
+12-07-2015 11:16:11  Checking for new version.
+12-07-2015 11:16:11  Required jar file for update not found on destination.
+12-07-2015 11:16:12  Checking for new version.
+12-07-2015 11:16:12  Required jar file for update not found on destination.
+12-07-2015 11:16:13  Checking for new version.
+12-07-2015 11:16:13  Required jar file for update not found on destination.
+12-07-2015 11:16:14  Checking for new version.
+12-07-2015 11:16:14  Required jar file for update not found on destination.
+12-07-2015 11:16:15  Checking for new version.
+12-07-2015 11:16:15  Required jar file for update not found on destination.
+12-07-2015 11:16:16  Checking for new version.
+12-07-2015 11:16:16  Required jar file for update not found on destination.
+12-07-2015 11:16:17  Checking for new version.
+12-07-2015 11:16:17  Required jar file for update not found on destination.
+12-07-2015 11:16:18  Checking for new version.
+12-07-2015 11:16:18  Required jar file for update not found on destination.
+12-07-2015 11:16:19  Checking for new version.
+12-07-2015 11:16:19  Required jar file for update not found on destination.
+12-07-2015 11:16:20  Checking for new version.
+12-07-2015 11:16:20  Required jar file for update not found on destination.
+12-07-2015 11:16:21  Checking for new version.
+12-07-2015 11:16:21  Required jar file for update not found on destination.
+12-07-2015 11:16:22  Checking for new version.
+12-07-2015 11:16:22  Required jar file for update not found on destination.
+12-07-2015 11:16:23  Checking for new version.
+12-07-2015 11:16:23  Required jar file for update not found on destination.
+12-07-2015 11:16:24  Checking for new version.
+12-07-2015 11:16:24  Required jar file for update not found on destination.
+12-07-2015 11:16:25  Checking for new version.
+12-07-2015 11:16:25  Required jar file for update not found on destination.

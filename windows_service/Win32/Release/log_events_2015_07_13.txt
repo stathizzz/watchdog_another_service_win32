@@ -1,0 +1,499 @@
+13-07-2015 08:42:20  Monitoring started.
+13-07-2015 08:42:20  Checking for new version.
+13-07-2015 08:42:20  No new version found.
+13-07-2015 08:42:21  Checking for new version.
+13-07-2015 08:42:21  No new version found.
+13-07-2015 08:42:22  Checking for new version.
+13-07-2015 08:42:22  No new version found.
+13-07-2015 08:42:23  Checking for new version.
+13-07-2015 08:42:23  No new version found.
+13-07-2015 08:42:24  Checking for new version.
+13-07-2015 08:42:24  No new version found.
+13-07-2015 08:42:25  Checking for new version.
+13-07-2015 08:42:25  No new version found.
+13-07-2015 08:42:26  Checking for new version.
+13-07-2015 08:42:26  No new version found.
+13-07-2015 08:42:27  Checking for new version.
+13-07-2015 08:42:27  No new version found.
+13-07-2015 08:42:28  Checking for new version.
+13-07-2015 08:42:28  No new version found.
+13-07-2015 08:42:29  Checking for new version.
+13-07-2015 08:42:29  No new version found.
+13-07-2015 08:42:30  Checking for new version.
+13-07-2015 08:42:30  No new version found.
+13-07-2015 08:42:31  Checking for new version.
+13-07-2015 08:42:31  No new version found.
+13-07-2015 08:42:32  Checking for new version.
+13-07-2015 08:42:32  No new version found.
+13-07-2015 08:42:33  Checking for new version.
+13-07-2015 08:42:33  No new version found.
+13-07-2015 08:42:34  Checking for new version.
+13-07-2015 08:42:34  No new version found.
+13-07-2015 08:42:35  Checking for new version.
+13-07-2015 08:42:35  No new version found.
+13-07-2015 08:42:36  Checking for new version.
+13-07-2015 08:42:36  No new version found.
+13-07-2015 08:42:37  Checking for new version.
+13-07-2015 08:42:37  No new version found.
+13-07-2015 08:42:38  Checking for new version.
+13-07-2015 08:42:38  No new version found.
+13-07-2015 08:42:39  Checking for new version.
+13-07-2015 08:42:39  No new version found.
+13-07-2015 08:42:40  Checking for new version.
+13-07-2015 08:42:40  No new version found.
+13-07-2015 08:42:41  Checking for new version.
+13-07-2015 08:42:41  No new version found.
+13-07-2015 08:42:42  Checking for new version.
+13-07-2015 08:42:42  No new version found.
+13-07-2015 08:42:43  Checking for new version.
+13-07-2015 08:42:43  No new version found.
+13-07-2015 08:42:43  Monitoring stopped.
+13-07-2015 08:46:03  Monitoring started.
+13-07-2015 08:46:04  Checking for new version.
+13-07-2015 08:46:04  No new version found.
+13-07-2015 08:46:05  Checking for new version.
+13-07-2015 08:46:05  No new version found.
+13-07-2015 08:46:06  Checking for new version.
+13-07-2015 08:46:06  No new version found.
+13-07-2015 08:46:07  Checking for new version.
+13-07-2015 08:46:07  No new version found.
+13-07-2015 08:46:08  Checking for new version.
+13-07-2015 08:46:08  No new version found.
+13-07-2015 08:46:09  Checking for new version.
+13-07-2015 08:46:09  No new version found.
+13-07-2015 08:46:10  Checking for new version.
+13-07-2015 08:46:10  No new version found.
+13-07-2015 08:46:11  Checking for new version.
+13-07-2015 08:46:11  No new version found.
+13-07-2015 08:46:12  Checking for new version.
+13-07-2015 08:46:12  No new version found.
+13-07-2015 08:46:13  Checking for new version.
+13-07-2015 08:46:13  No new version found.
+13-07-2015 08:46:14  Checking for new version.
+13-07-2015 08:46:14  No new version found.
+13-07-2015 08:46:15  Checking for new version.
+13-07-2015 08:46:15  No new version found.
+13-07-2015 08:46:16  Checking for new version.
+13-07-2015 08:46:16  No new version found.
+13-07-2015 08:46:17  Checking for new version.
+13-07-2015 08:46:17  No new version found.
+13-07-2015 08:46:18  Checking for new version.
+13-07-2015 08:46:18  No new version found.
+13-07-2015 08:46:19  Checking for new version.
+13-07-2015 08:46:19  No new version found.
+13-07-2015 08:46:20  Checking for new version.
+13-07-2015 08:46:20  No new version found.
+13-07-2015 08:46:21  Checking for new version.
+13-07-2015 08:46:21  No new version found.
+13-07-2015 08:46:22  Checking for new version.
+13-07-2015 08:46:22  No new version found.
+13-07-2015 08:46:23  Checking for new version.
+13-07-2015 08:46:23  No new version found.
+13-07-2015 08:46:24  Checking for new version.
+13-07-2015 08:46:24  No new version found.
+13-07-2015 08:46:25  Checking for new version.
+13-07-2015 08:46:25  No new version found.
+13-07-2015 08:46:26  Checking for new version.
+13-07-2015 08:46:26  No new version found.
+13-07-2015 08:46:27  Checking for new version.
+13-07-2015 08:46:27  Required jar file for update not found on destination.
+13-07-2015 08:46:28  Checking for new version.
+13-07-2015 08:46:28  Required jar file for update not found on destination.
+13-07-2015 08:46:29  Checking for new version.
+13-07-2015 08:46:29  Required jar file for update not found on destination.
+13-07-2015 08:46:30  Checking for new version.
+13-07-2015 08:46:30  Required jar file for update not found on destination.
+13-07-2015 08:46:31  Checking for new version.
+13-07-2015 08:46:31  Required jar file for update not found on destination.
+13-07-2015 08:46:32  Checking for new version.
+13-07-2015 08:46:32  Required jar file for update not found on destination.
+13-07-2015 08:46:33  Checking for new version.
+13-07-2015 08:46:33  Required jar file for update not found on destination.
+13-07-2015 08:46:34  Checking for new version.
+13-07-2015 08:46:34  Required jar file for update not found on destination.
+13-07-2015 08:46:35  Checking for new version.
+13-07-2015 08:46:35  Required jar file for update not found on destination.
+13-07-2015 08:46:36  Checking for new version.
+13-07-2015 08:46:36  Required jar file for update not found on destination.
+13-07-2015 08:46:37  Checking for new version.
+13-07-2015 08:46:37  Required jar file for update not found on destination.
+13-07-2015 08:46:38  Checking for new version.
+13-07-2015 08:46:38  Required jar file for update not found on destination.
+13-07-2015 08:46:39  Checking for new version.
+13-07-2015 08:46:39  Required jar file for update not found on destination.
+13-07-2015 08:46:40  Checking for new version.
+13-07-2015 08:46:40  Required jar file for update not found on destination.
+13-07-2015 08:46:41  Checking for new version.
+13-07-2015 08:46:41  Required jar file for update not found on destination.
+13-07-2015 08:46:42  Checking for new version.
+13-07-2015 08:46:42  Required jar file for update not found on destination.
+13-07-2015 08:46:43  Checking for new version.
+13-07-2015 08:46:43  Required jar file for update not found on destination.
+13-07-2015 08:46:44  Checking for new version.
+13-07-2015 08:46:44  Required jar file for update not found on destination.
+13-07-2015 08:46:45  Checking for new version.
+13-07-2015 08:46:45  Required jar file for update not found on destination.
+13-07-2015 08:46:46  Checking for new version.
+13-07-2015 08:46:46  Required jar file for update not found on destination.
+13-07-2015 08:46:47  Checking for new version.
+13-07-2015 08:46:47  Required jar file for update not found on destination.
+13-07-2015 08:46:48  Checking for new version.
+13-07-2015 08:46:48  Required jar file for update not found on destination.
+13-07-2015 08:46:49  Checking for new version.
+13-07-2015 08:46:49  Required jar file for update not found on destination.
+13-07-2015 08:46:50  Checking for new version.
+13-07-2015 08:46:50  Required jar file for update not found on destination.
+13-07-2015 08:46:51  Checking for new version.
+13-07-2015 08:46:51  Required jar file for update not found on destination.
+13-07-2015 08:46:52  Checking for new version.
+13-07-2015 08:46:52  Required jar file for update not found on destination.
+13-07-2015 08:46:53  Monitoring stopped.
+13-07-2015 08:47:44  Monitoring started.
+13-07-2015 08:47:45  Checking for new version.
+13-07-2015 08:47:45  Required jar file for update not found on destination.
+13-07-2015 08:47:46  Checking for new version.
+13-07-2015 08:47:46  Required jar file for update not found on destination.
+13-07-2015 08:47:47  Checking for new version.
+13-07-2015 08:47:47  Required jar file for update not found on destination.
+13-07-2015 08:47:48  Checking for new version.
+13-07-2015 08:47:48  Required jar file for update not found on destination.
+13-07-2015 08:47:49  Checking for new version.
+13-07-2015 08:47:49  Required jar file for update not found on destination.
+13-07-2015 08:47:50  Checking for new version.
+13-07-2015 08:47:50  Required jar file for update not found on destination.
+13-07-2015 08:47:51  Checking for new version.
+13-07-2015 08:47:51  Required jar file for update not found on destination.
+13-07-2015 08:47:52  Checking for new version.
+13-07-2015 08:47:52  Required jar file for update not found on destination.
+13-07-2015 08:47:53  Checking for new version.
+13-07-2015 08:47:53  New version found.
+13-07-2015 08:47:53  Service stopped so as to update.
+13-07-2015 08:47:53  Done update.
+13-07-2015 08:47:53  Service started after update.
+13-07-2015 08:47:53  Service is pending...
+13-07-2015 08:47:53  Time passed on general pending: 0.000 sec(s).
+13-07-2015 08:47:54  Service failed to start on SERVICE_PENDING.
+13-07-2015 08:47:54  Time passed on SERVICE_PENDING: 0.000 sec(s).
+13-07-2015 08:47:55  Checking for new version.
+13-07-2015 08:47:55  No new version found.
+13-07-2015 08:47:56  Checking for new version.
+13-07-2015 08:47:56  No new version found.
+13-07-2015 08:47:57  Checking for new version.
+13-07-2015 08:47:57  No new version found.
+13-07-2015 08:47:58  Checking for new version.
+13-07-2015 08:47:58  No new version found.
+13-07-2015 08:47:59  Checking for new version.
+13-07-2015 08:47:59  No new version found.
+13-07-2015 08:48:00  Checking for new version.
+13-07-2015 08:48:00  No new version found.
+13-07-2015 08:48:01  Checking for new version.
+13-07-2015 08:48:01  No new version found.
+13-07-2015 08:48:02  Checking for new version.
+13-07-2015 08:48:02  No new version found.
+13-07-2015 08:48:03  Checking for new version.
+13-07-2015 08:48:03  No new version found.
+13-07-2015 08:48:04  Checking for new version.
+13-07-2015 08:48:04  No new version found.
+13-07-2015 08:48:05  Checking for new version.
+13-07-2015 08:48:05  No new version found.
+13-07-2015 08:48:06  Checking for new version.
+13-07-2015 08:48:06  No new version found.
+13-07-2015 08:48:07  Checking for new version.
+13-07-2015 08:48:07  No new version found.
+13-07-2015 08:48:08  Checking for new version.
+13-07-2015 08:48:08  No new version found.
+13-07-2015 08:48:09  Checking for new version.
+13-07-2015 08:48:09  No new version found.
+13-07-2015 08:48:10  Checking for new version.
+13-07-2015 08:48:10  No new version found.
+13-07-2015 08:48:11  Checking for new version.
+13-07-2015 08:48:11  No new version found.
+13-07-2015 08:48:12  Checking for new version.
+13-07-2015 08:48:12  No new version found.
+13-07-2015 08:48:13  Checking for new version.
+13-07-2015 08:48:13  No new version found.
+13-07-2015 08:48:14  Checking for new version.
+13-07-2015 08:48:14  No new version found.
+13-07-2015 08:48:15  Checking for new version.
+13-07-2015 08:48:15  No new version found.
+13-07-2015 08:48:16  Checking for new version.
+13-07-2015 08:48:16  No new version found.
+13-07-2015 08:48:17  Checking for new version.
+13-07-2015 08:48:17  No new version found.
+13-07-2015 08:48:18  Checking for new version.
+13-07-2015 08:48:18  No new version found.
+13-07-2015 08:48:19  Checking for new version.
+13-07-2015 08:48:19  No new version found.
+13-07-2015 08:48:20  Checking for new version.
+13-07-2015 08:48:20  No new version found.
+13-07-2015 08:48:21  Checking for new version.
+13-07-2015 08:48:21  No new version found.
+13-07-2015 08:48:22  Checking for new version.
+13-07-2015 08:48:22  No new version found.
+13-07-2015 08:48:23  Checking for new version.
+13-07-2015 08:48:23  No new version found.
+13-07-2015 08:48:24  Checking for new version.
+13-07-2015 08:48:24  No new version found.
+13-07-2015 08:48:25  Checking for new version.
+13-07-2015 08:48:25  No new version found.
+13-07-2015 08:48:26  Checking for new version.
+13-07-2015 08:48:26  No new version found.
+13-07-2015 08:48:27  Checking for new version.
+13-07-2015 08:48:27  No new version found.
+13-07-2015 08:48:28  Checking for new version.
+13-07-2015 08:48:28  No new version found.
+13-07-2015 08:48:29  Checking for new version.
+13-07-2015 08:48:29  No new version found.
+13-07-2015 08:48:30  Checking for new version.
+13-07-2015 08:48:30  No new version found.
+13-07-2015 08:48:31  Checking for new version.
+13-07-2015 08:48:31  No new version found.
+13-07-2015 08:48:32  Checking for new version.
+13-07-2015 08:48:32  No new version found.
+13-07-2015 08:48:33  Checking for new version.
+13-07-2015 08:48:33  No new version found.
+13-07-2015 08:48:34  Checking for new version.
+13-07-2015 08:48:34  No new version found.
+13-07-2015 08:48:35  Checking for new version.
+13-07-2015 08:48:35  No new version found.
+13-07-2015 08:48:36  Checking for new version.
+13-07-2015 08:48:36  No new version found.
+13-07-2015 08:48:37  Checking for new version.
+13-07-2015 08:48:37  No new version found.
+13-07-2015 08:48:38  Checking for new version.
+13-07-2015 08:48:38  No new version found.
+13-07-2015 08:48:39  Checking for new version.
+13-07-2015 08:48:39  No new version found.
+13-07-2015 08:48:40  Checking for new version.
+13-07-2015 08:48:40  No new version found.
+13-07-2015 08:48:41  Checking for new version.
+13-07-2015 08:48:41  No new version found.
+13-07-2015 08:48:42  Checking for new version.
+13-07-2015 08:48:42  No new version found.
+13-07-2015 08:48:43  Checking for new version.
+13-07-2015 08:48:43  No new version found.
+13-07-2015 08:48:44  Checking for new version.
+13-07-2015 08:48:44  No new version found.
+13-07-2015 08:48:45  Checking for new version.
+13-07-2015 08:48:45  No new version found.
+13-07-2015 08:48:46  Checking for new version.
+13-07-2015 08:48:46  No new version found.
+13-07-2015 08:48:47  Checking for new version.
+13-07-2015 08:48:47  No new version found.
+13-07-2015 08:48:48  Checking for new version.
+13-07-2015 08:48:48  No new version found.
+13-07-2015 08:48:49  Checking for new version.
+13-07-2015 08:48:49  No new version found.
+13-07-2015 08:48:50  Checking for new version.
+13-07-2015 08:48:50  No new version found.
+13-07-2015 08:48:51  Checking for new version.
+13-07-2015 08:48:51  No new version found.
+13-07-2015 08:48:52  Checking for new version.
+13-07-2015 08:48:52  No new version found.
+13-07-2015 08:48:53  Checking for new version.
+13-07-2015 08:48:53  No new version found.
+13-07-2015 08:48:54  Checking for new version.
+13-07-2015 08:48:54  No new version found.
+13-07-2015 08:48:55  Checking for new version.
+13-07-2015 08:48:55  No new version found.
+13-07-2015 08:48:56  Checking for new version.
+13-07-2015 08:48:56  No new version found.
+13-07-2015 08:48:57  Checking for new version.
+13-07-2015 08:48:57  No new version found.
+13-07-2015 08:48:58  Checking for new version.
+13-07-2015 08:48:58  No new version found.
+13-07-2015 08:48:59  Checking for new version.
+13-07-2015 08:48:59  No new version found.
+13-07-2015 08:49:00  Checking for new version.
+13-07-2015 08:49:00  No new version found.
+13-07-2015 08:49:01  Checking for new version.
+13-07-2015 08:49:01  No new version found.
+13-07-2015 08:49:02  Checking for new version.
+13-07-2015 08:49:02  No new version found.
+13-07-2015 08:49:03  Checking for new version.
+13-07-2015 08:49:03  No new version found.
+13-07-2015 08:49:04  Checking for new version.
+13-07-2015 08:49:04  No new version found.
+13-07-2015 08:49:05  Checking for new version.
+13-07-2015 08:49:05  No new version found.
+13-07-2015 08:49:06  Checking for new version.
+13-07-2015 08:49:06  No new version found.
+13-07-2015 08:49:07  Checking for new version.
+13-07-2015 08:49:07  No new version found.
+13-07-2015 08:49:08  Checking for new version.
+13-07-2015 08:49:08  No new version found.
+13-07-2015 08:49:09  Checking for new version.
+13-07-2015 08:49:09  No new version found.
+13-07-2015 08:49:09  Service is stopped. Trying database logging
+13-07-2015 08:49:10  [Microsoft][ODBC SQL Server Driver][SQL Server]Unfinished event not found
+13-07-2015 08:49:10  [Microsoft][ODBC SQL Server Driver]Invalid cursor state
+13-07-2015 08:49:10  [Microsoft][ODBC SQL Server Driver]Invalid cursor state
+13-07-2015 08:49:10  Failed database event logging.
+13-07-2015 08:49:10  Service started.
+13-07-2015 08:49:11  Checking for new version.
+13-07-2015 08:49:11  No new version found.
+13-07-2015 08:49:12  Checking for new version.
+13-07-2015 08:49:12  No new version found.
+13-07-2015 08:49:13  Checking for new version.
+13-07-2015 08:49:13  No new version found.
+13-07-2015 08:49:14  Checking for new version.
+13-07-2015 08:49:14  No new version found.
+13-07-2015 08:49:15  Checking for new version.
+13-07-2015 08:49:15  No new version found.
+13-07-2015 08:49:16  Checking for new version.
+13-07-2015 08:49:16  No new version found.
+13-07-2015 08:49:17  Checking for new version.
+13-07-2015 08:49:17  No new version found.
+13-07-2015 08:49:18  Checking for new version.
+13-07-2015 08:49:18  No new version found.
+13-07-2015 08:49:19  Checking for new version.
+13-07-2015 08:49:19  No new version found.
+13-07-2015 08:49:20  Checking for new version.
+13-07-2015 08:49:20  No new version found.
+13-07-2015 08:49:21  Checking for new version.
+13-07-2015 08:49:21  No new version found.
+13-07-2015 08:49:22  Checking for new version.
+13-07-2015 08:49:22  No new version found.
+13-07-2015 08:49:23  Checking for new version.
+13-07-2015 08:49:23  No new version found.
+13-07-2015 08:49:24  Checking for new version.
+13-07-2015 08:49:24  No new version found.
+13-07-2015 08:49:25  Checking for new version.
+13-07-2015 08:49:25  No new version found.
+13-07-2015 08:49:26  Checking for new version.
+13-07-2015 08:49:26  No new version found.
+13-07-2015 08:49:27  Checking for new version.
+13-07-2015 08:49:27  No new version found.
+13-07-2015 08:49:28  Checking for new version.
+13-07-2015 08:49:28  No new version found.
+13-07-2015 08:49:29  Checking for new version.
+13-07-2015 08:49:29  No new version found.
+13-07-2015 08:49:30  Checking for new version.
+13-07-2015 08:49:30  No new version found.
+13-07-2015 08:49:31  Checking for new version.
+13-07-2015 08:49:31  No new version found.
+13-07-2015 08:49:32  Checking for new version.
+13-07-2015 08:49:32  No new version found.
+13-07-2015 08:49:33  Checking for new version.
+13-07-2015 08:49:33  No new version found.
+13-07-2015 08:49:34  Checking for new version.
+13-07-2015 08:49:34  No new version found.
+13-07-2015 08:49:35  Checking for new version.
+13-07-2015 08:49:35  No new version found.
+13-07-2015 08:49:36  Checking for new version.
+13-07-2015 08:49:36  No new version found.
+13-07-2015 08:49:37  Checking for new version.
+13-07-2015 08:49:37  No new version found.
+13-07-2015 08:49:38  Checking for new version.
+13-07-2015 08:49:38  No new version found.
+13-07-2015 08:49:39  Checking for new version.
+13-07-2015 08:49:39  No new version found.
+13-07-2015 08:49:40  Checking for new version.
+13-07-2015 08:49:40  No new version found.
+13-07-2015 08:49:41  Checking for new version.
+13-07-2015 08:49:41  No new version found.
+13-07-2015 08:49:42  Checking for new version.
+13-07-2015 08:49:42  No new version found.
+13-07-2015 08:49:43  Checking for new version.
+13-07-2015 08:49:43  No new version found.
+13-07-2015 08:49:44  Checking for new version.
+13-07-2015 08:49:44  No new version found.
+13-07-2015 08:49:45  Checking for new version.
+13-07-2015 08:49:45  No new version found.
+13-07-2015 08:49:46  Checking for new version.
+13-07-2015 08:49:46  No new version found.
+13-07-2015 08:49:47  Checking for new version.
+13-07-2015 08:49:47  No new version found.
+13-07-2015 08:49:48  Checking for new version.
+13-07-2015 08:49:48  No new version found.
+13-07-2015 08:49:49  Checking for new version.
+13-07-2015 08:49:49  No new version found.
+13-07-2015 08:49:50  Checking for new version.
+13-07-2015 08:49:50  No new version found.
+13-07-2015 08:49:51  Checking for new version.
+13-07-2015 08:49:51  No new version found.
+13-07-2015 08:49:52  Checking for new version.
+13-07-2015 08:49:52  No new version found.
+13-07-2015 08:49:53  Checking for new version.
+13-07-2015 08:49:53  No new version found.
+13-07-2015 08:49:54  Checking for new version.
+13-07-2015 08:49:54  No new version found.
+13-07-2015 08:49:55  Checking for new version.
+13-07-2015 08:49:55  No new version found.
+13-07-2015 08:49:56  Checking for new version.
+13-07-2015 08:49:56  No new version found.
+13-07-2015 08:49:57  Checking for new version.
+13-07-2015 08:49:57  No new version found.
+13-07-2015 08:49:58  Checking for new version.
+13-07-2015 08:49:58  No new version found.
+13-07-2015 08:49:59  Checking for new version.
+13-07-2015 08:49:59  No new version found.
+13-07-2015 08:50:00  Checking for new version.
+13-07-2015 08:50:00  No new version found.
+13-07-2015 08:50:01  Checking for new version.
+13-07-2015 08:50:01  No new version found.
+13-07-2015 08:50:02  Checking for new version.
+13-07-2015 08:50:02  No new version found.
+13-07-2015 08:50:03  Checking for new version.
+13-07-2015 08:50:03  No new version found.
+13-07-2015 08:50:04  Checking for new version.
+13-07-2015 08:50:04  No new version found.
+13-07-2015 08:50:05  Checking for new version.
+13-07-2015 08:50:05  No new version found.
+13-07-2015 08:50:06  Checking for new version.
+13-07-2015 08:50:06  No new version found.
+13-07-2015 08:50:07  Checking for new version.
+13-07-2015 08:50:07  No new version found.
+13-07-2015 08:50:08  Checking for new version.
+13-07-2015 08:50:08  No new version found.
+13-07-2015 08:50:09  Checking for new version.
+13-07-2015 08:50:09  No new version found.
+13-07-2015 08:50:10  Checking for new version.
+13-07-2015 08:50:10  No new version found.
+13-07-2015 08:50:12  Checking for new version.
+13-07-2015 08:50:12  No new version found.
+13-07-2015 08:50:13  Checking for new version.
+13-07-2015 08:50:13  No new version found.
+13-07-2015 08:50:14  Checking for new version.
+13-07-2015 08:50:14  No new version found.
+13-07-2015 08:50:15  Checking for new version.
+13-07-2015 08:50:15  No new version found.
+13-07-2015 08:50:16  Checking for new version.
+13-07-2015 08:50:16  No new version found.
+13-07-2015 08:50:17  Checking for new version.
+13-07-2015 08:50:17  No new version found.
+13-07-2015 08:50:18  Checking for new version.
+13-07-2015 08:50:18  No new version found.
+13-07-2015 08:50:19  Checking for new version.
+13-07-2015 08:50:19  No new version found.
+13-07-2015 08:50:20  Checking for new version.
+13-07-2015 08:50:20  No new version found.
+13-07-2015 08:50:21  Checking for new version.
+13-07-2015 08:50:21  No new version found.
+13-07-2015 08:50:22  Checking for new version.
+13-07-2015 08:50:22  No new version found.
+13-07-2015 08:50:23  Checking for new version.
+13-07-2015 08:50:23  No new version found.
+13-07-2015 08:50:24  Checking for new version.
+13-07-2015 08:50:24  No new version found.
+13-07-2015 08:50:25  Checking for new version.
+13-07-2015 08:50:25  No new version found.
+13-07-2015 08:50:26  Checking for new version.
+13-07-2015 08:50:26  No new version found.
+13-07-2015 08:50:27  Checking for new version.
+13-07-2015 08:50:27  No new version found.
+13-07-2015 08:50:28  Checking for new version.
+13-07-2015 08:50:28  No new version found.
+13-07-2015 08:50:29  Checking for new version.
+13-07-2015 08:50:29  No new version found.
+13-07-2015 08:50:30  Checking for new version.
+13-07-2015 08:50:30  No new version found.
+13-07-2015 08:50:31  Checking for new version.
+13-07-2015 08:50:31  No new version found.
+13-07-2015 08:50:32  Checking for new version.
+13-07-2015 08:50:32  No new version found.
+13-07-2015 08:50:33  Checking for new version.
+13-07-2015 08:50:33  No new version found.
+13-07-2015 08:50:34  Checking for new version.
+13-07-2015 08:50:34  No new version found.
+13-07-2015 08:50:34  Monitoring stopped.
