@@ -74,16 +74,12 @@ int compress_one_file(char *infilename, char *outfilename)
 }
 #endif
 
-int compress_one_file(char *infilename, char *outfilename);
-int decompress_one_file(const char *infilename, const char *outfilename);
-unsigned long file_size(char *filename);
-
 extern GLOBALS gl;
 
 bool find_specified_file_within_folder(string folder, string filename)
 {
 	char search_path[200];
-	if (!folder.empty() && folder.back() != '\\')
+	if (!folder.empty() && (folder.back() != '\\' && folder.back() != '/'))
 		folder += '\\';
 		
 	sprintf(search_path, "%s*", folder.c_str());
@@ -108,8 +104,8 @@ vector<string> get_all_jars_within_folder(string folder)
 {
 	vector<string> names;
 	char search_path[200];
-	if (!folder.empty() && folder.back() != '/')
-		folder += '/';
+	if (!folder.empty() && (folder.back() != '\\' && folder.back() != '/'))
+		folder += '\\';
 	sprintf(search_path, "%s*.jar", folder.c_str());
 	WIN32_FIND_DATA fd;
 	HANDLE hFind = ::FindFirstFile(search_path, &fd);
@@ -126,13 +122,12 @@ vector<string> get_all_jars_within_folder(string folder)
 
 	return names;
 }
-
 vector<string> get_all_files_within_folder(string folder)
 {
 	vector<string> names;
 	char search_path[200];
-	if (!folder.empty() && folder.back() != '/')
-		folder += '/';
+	if (!folder.empty() && (folder.back() != '\\' && folder.back() != '/'))
+		folder += '\\';
 	sprintf(search_path, "%s*.*", folder.c_str());
 	WIN32_FIND_DATA fd;
 	HANDLE hFind = ::FindFirstFile(search_path, &fd);
@@ -150,7 +145,6 @@ vector<string> get_all_files_within_folder(string folder)
 
 	return names;
 }
-
 char *search_buffer(char *haystack, size_t haystacklen, char *needle, size_t needlelen)
 {   /* warning: O(n^2) */
 	int searchlen = haystacklen - needlelen + 1;
@@ -159,7 +153,6 @@ char *search_buffer(char *haystack, size_t haystacklen, char *needle, size_t nee
 		return haystack;
 	return NULL;
 }
-
 bool checkIfUpdateRequired(const char *oldfile, const char *newfile)
 {
 	WIN32_FILE_ATTRIBUTE_DATA  oldwfad, newwfad;
@@ -169,15 +162,13 @@ bool checkIfUpdateRequired(const char *oldfile, const char *newfile)
 	b = GetFileAttributesEx(newfile, GetFileExInfoStandard, &newwfad);
 	if (!b) throw std::runtime_error("couldn't read new file attributes");
 	
-	 if (oldwfad.nFileSizeLow != newwfad.nFileSizeLow && CompareFileTime(&oldwfad.ftCreationTime, &newwfad.ftCreationTime)) {
+	if (CompareFileTime(&oldwfad.ftLastWriteTime, &newwfad.ftLastWriteTime)) {
 		return true;
 	}
 	
 	return false;
 }
-
-
-int updateDirs(string & oldfolder, string & newfolder) {
+int updateDirsAndFiles(string & oldfolder, string & newfolder) {
 
 	int result;
 	SHFILEOPSTRUCTA sf;	
@@ -188,8 +179,10 @@ int updateDirs(string & oldfolder, string & newfolder) {
 	struct dirent *dirp = NULL;
 	struct stat filestat;
 
+	logToDBAndFile(DECL_INFO, "Updating dirs...\n");
+
 	if (dp == NULL) {
-		logToDBAndFile(DECL_ERROR, "Updater error: recreating the new directory structure failed: %d.", errno);
+		logToDBAndFile(DECL_ERROR, "Updater error: recreating the new directory structure failed: Error %d.\n", GetLastError());
 		return -1;
 	}
 
@@ -202,47 +195,61 @@ int updateDirs(string & oldfolder, string & newfolder) {
 		}
 
 		string path = newfolder + dirp->d_name;
+		path.append(1, '\0');
+
 		if (stat(path.c_str(), &filestat)) {
 			continue;
 		}
-		
-		if (S_ISDIR(filestat.st_mode))  {
-			path.append(1, '\0');
+		if (S_ISREG(filestat.st_mode))  {
+			sf.fFlags = FOF_FILESONLY | FOF_NO_UI;
 			sf.pFrom = path.c_str();
-			string l = oldfolder + dirp->d_name;
+			string l = string(oldfolder + dirp->d_name);
 			l.append(1, '\0');
 			sf.pTo = l.c_str();
+			logToDBAndFile(DECL_INFO, "Copying from file %s to file %s...\n", path.c_str(), l.c_str());
 			if (SHFileOperationA(&sf)) {
-				logToDBAndFile(DECL_ERROR, "Updater error: recreating the new directory structure failed.");
+				logToDBAndFile(DECL_ERROR, "Updater error: couldn't recreate file from %s to %s. Error %d.\n", path.c_str(), l.c_str(), GetLastError());
 				closedir(dp);
 				return -1;
 			}
-			
+			logToDBAndFile(DECL_INFO, "Copying from file %s to file %s completed successfully.\n", path.c_str(), l.c_str());
+			continue;
+		} else if (S_ISDIR(filestat.st_mode))  {
+			sf.fFlags = FOF_NOCONFIRMATION | FOF_NOCONFIRMMKDIR | FOF_SILENT;
+			sf.pFrom = path.c_str();
+			string l = string(oldfolder);
+			l.append(1, '\0');			
+			sf.pTo = l.c_str();
+			logToDBAndFile(DECL_INFO, "Copying from directory %s to directory %s...\n", path.c_str(), l.c_str());
+			if (SHFileOperationA(&sf)) {
+				logToDBAndFile(DECL_ERROR, "Updater error: recreating the new directory structure failed. Error %d.\n", GetLastError());
+				closedir(dp);
+				return -1;
+			}
+			logToDBAndFile(DECL_INFO, "Copying from directory %s to directory %s completed successfully.\n", path.c_str(), l.c_str());
 			continue;
 		}		
 	}
 
 	closedir(dp);
-	
+	logToDBAndFile(DECL_INFO, "Updating dirs completed.\n");
 	return 0;
 }
-
 void putforth(string & oldfolder) {
 	int copy_status;
 	copy_status = CopyFile((oldfolder + gl.JAR_TO_CHECK).c_str(), (oldfolder + gl.JAR_TO_CHECK + ".temp").c_str(), 0);
 	if (!copy_status) {
-		logToDBAndFile(DECL_ERROR, "Updater error: copying file %s to temp location failed. %d\n", (oldfolder + gl.JAR_TO_CHECK).c_str(), GetLastError());
+		logToDBAndFile(DECL_ERROR, "Updater error: copy file %s to %s failed. Error %d.\n", (oldfolder + gl.JAR_TO_CHECK).c_str(), (oldfolder + gl.JAR_TO_CHECK + ".temp").c_str(), GetLastError());
 	}
 }
 void rollback(string & oldfolder) {
 	int copy_status;
 	copy_status = CopyFile((oldfolder + gl.JAR_TO_CHECK + ".temp").c_str(), (oldfolder + gl.JAR_TO_CHECK).c_str(), 0);
 	if (!copy_status) {
-		logToDBAndFile(DECL_ERROR, "Updater error: copying file %s from temp location failed. %d\n", (oldfolder + gl.JAR_TO_CHECK).c_str(), GetLastError());
+		logToDBAndFile(DECL_ERROR, "Updater error: copy file %s to %s location failed. Error %d.\n", (oldfolder + gl.JAR_TO_CHECK + ".temp").c_str(), (oldfolder + gl.JAR_TO_CHECK).c_str(), GetLastError());
 	}
 	DeleteFile((oldfolder + gl.JAR_TO_CHECK + ".temp").c_str());
 }
-
 void deleteTempCheckerFile(string & oldfolder) {
 	DeleteFile((oldfolder + gl.JAR_TO_CHECK + ".temp").c_str());
 }
@@ -250,9 +257,12 @@ int updateRootFiles(string & oldfolder, string & newfolder) {
 	int delete_status, copy_status;
 	WIN32_FIND_DATA fd;
 	HANDLE hFind;
-	char search_path[200];
+
+	logToDBAndFile(DECL_INFO, "Updating root files...\n");
 	
+	char search_path[200];	
 	sprintf(search_path, "%s*", newfolder.c_str());
+	
 	putforth(oldfolder);
 	hFind = ::FindFirstFile(search_path, &fd);
 	if (hFind != INVALID_HANDLE_VALUE) {
@@ -260,9 +270,9 @@ int updateRootFiles(string & oldfolder, string & newfolder) {
 			if (!(fd.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY)) {								
 				string tmp = string(fd.cFileName);
 				copy_status = CopyFile((newfolder + tmp).c_str(), (oldfolder + tmp).c_str(), 0);
-				if (!copy_status) {
+				if (!copy_status) {					
+					logToDBAndFile(DECL_ERROR, "Updater error: copy file %s to %s failed:Error %d\n", (newfolder + tmp).c_str(), (oldfolder + tmp).c_str(),  GetLastError());
 					rollback(oldfolder);
-					logToDBAndFile(DECL_ERROR, "Updater error: copying file %s to temp location failed:Error %d\n", (oldfolder + tmp).c_str(), GetLastError());
 					FindClose(hFind);
 					return -1;
 				}								
@@ -272,33 +282,35 @@ int updateRootFiles(string & oldfolder, string & newfolder) {
 	}
 
 	deleteTempCheckerFile(oldfolder);
+	logToDBAndFile(DECL_INFO, "Updating root files completed.\n");
 	return 0;
 }
-
 void updateFiles(string & oldfolder, string & newfolder) {
 
 	int copy_status;
-	if (updateDirs(oldfolder, newfolder) == -1) {
+	putforth(oldfolder);
+	if (updateDirsAndFiles(oldfolder, newfolder) == -1) {
 		logToDBAndFile(DECL_ERROR, "Updater error: unable to recreate new dir structure.\n");
+		rollback(oldfolder);
 		return;
 	}
-
-	if (updateRootFiles(oldfolder, newfolder) == -1) {
+	deleteTempCheckerFile(oldfolder);
+	
+	/*if (updateRootFiles(oldfolder, newfolder) == -1) {
 		logToDBAndFile(DECL_ERROR, "Updater error: unable to update files on root folder.\n");
 		return;
-	}
+	}*/
 }
-
 void UpdaterLogicCheckAllJarsAndUpdate(SC_HANDLE schService) {
 		
 	vector<string> oldjars = get_all_jars_within_folder(gl.PATH_TO_OLD_JARS);
 	vector<string> newjars = get_all_jars_within_folder(gl.PATH_TO_NEW_JARS);
 	string oldfolder = gl.PATH_TO_OLD_JARS;
-	if (!oldfolder.empty() && oldfolder.back() != '/')
-		oldfolder += '/';
+	if (!oldfolder.empty() && (oldfolder.back() != '/' && oldfolder.back() != '\\'))
+		oldfolder += '\\';
 	string newfolder = gl.PATH_TO_NEW_JARS;
-	if (!newfolder.empty() && newfolder.back() != '/')
-		newfolder += '/';
+	if (!newfolder.empty() && (newfolder.back() != '/' && newfolder.back() != '\\'))
+		newfolder += '\\';
 	bool ch = false;
 	for (string oldjar : oldjars) {
 		bool pp = false;
@@ -337,8 +349,7 @@ void UpdaterLogicCheckAllJarsAndUpdate(SC_HANDLE schService) {
 		}
 	}
 }
-
-void UpdaterLogic(SC_HANDLE schService) {
+void UpdaterLogic(SC_HANDLE schService, bool hasService) {
 
 	logToDBAndFile(DECL_INFO, (char *)"Checking for new version.\n");
 	bool found = find_specified_file_within_folder(gl.PATH_TO_OLD_JARS, gl.JAR_TO_CHECK);
@@ -350,11 +361,11 @@ void UpdaterLogic(SC_HANDLE schService) {
 		throw std::runtime_error("Required jar file for update not found on update folder.\n");
 	}
 	string oldfolder = gl.PATH_TO_OLD_JARS;
-	if (!oldfolder.empty() && oldfolder.back() != '/')
-		oldfolder += '/';
+	if (!oldfolder.empty() && (oldfolder.back() != '/' && oldfolder.back() != '\\'))
+		oldfolder += '\\';
 	string newfolder = gl.PATH_TO_NEW_JARS;
-	if (!newfolder.empty() && newfolder.back() != '/')
-		newfolder += '/';
+	if (!newfolder.empty() && (newfolder.back() != '/' && newfolder.back() != '\\'))
+		newfolder += '\\';
 	bool ch = checkIfUpdateRequired((oldfolder + gl.JAR_TO_CHECK).c_str(), (newfolder + gl.JAR_TO_CHECK).c_str());
 	if (!ch) {
 		/* No update required*/
@@ -363,23 +374,61 @@ void UpdaterLogic(SC_HANDLE schService) {
 	
 	logToDBAndFile(DECL_INFO, (char *)"New version found.\n");
 	
-	SERVICE_STATUS_PROCESS status;
-	/* Stopping service */
-	BOOL b = ControlService(schService, SERVICE_CONTROL_STOP, (LPSERVICE_STATUS)&status);
-	if (b) {
-		logToDBAndFile(DECL_INFO, "Service stopped so as to update.\n");
-	} else {		
-		throw std::runtime_error("Service failed to stop before update.\n");
+	if (hasService) {		
+		SERVICE_STATUS_PROCESS status;
+		/* Stopping service */
+		BOOL b = ControlService(schService, SERVICE_CONTROL_STOP, (LPSERVICE_STATUS)&status);
+		if (b) {
+			logToDBAndFile(DECL_INFO, "Service stopped so as to update.\n");
+		} else {
+			throw std::runtime_error("Service failed to stop before update.\n");
+		}
 	}
 	/* Updating program jars */
 	updateFiles(oldfolder, newfolder);
 
 	logToDBAndFile(DECL_INFO, "Done update.\n");	
 	/* Restarting service */
-	b = StartService(schService, NULL, NULL);
-	if (b) {
-		logToDBAndFile(DECL_INFO, "Service started after update.\n");
-	} else {		
-		throw std::runtime_error("Service failed to start after update.");
+	if (hasService) {
+		BOOL b = StartService(schService, NULL, NULL);
+		if (b) {
+			logToDBAndFile(DECL_INFO, "Service started after update.\n");
+		} else {
+			throw std::runtime_error("Service failed to start after update.");
+		}
+	}
+}
+void tryUpdateNoService(volatile BOOL *first_time, float *TIME_WAIT_UPDATE, SC_HANDLE *schService, bool overrideAll = true)
+{
+	if (overrideAll) {
+		try {
+			UpdaterLogic(*schService, false);
+		} catch (std::runtime_error ex) {
+			logToDBAndFile(DECL_WARNING, (char *)ex.what());
+		}
+	} else {
+		float wbubs = get_time_passed_ms(*TIME_WAIT_UPDATE) / 1000.0;
+		if (*first_time || gl.WAIT_BEFORE_UPDATE <= wbubs) {
+			*first_time = FALSE;
+			*TIME_WAIT_UPDATE = get_time_ms();
+			try {
+				UpdaterLogic(*schService, false);
+			} catch (std::runtime_error ex) {
+				logToDBAndFile(DECL_WARNING, (char *)ex.what());
+			}
+		}
+	}
+}
+void tryUpdateWithService(volatile BOOL *first_time, float *TIME_WAIT_UPDATE, SC_HANDLE *schService) 
+{
+	float wbu = get_time_passed_ms(*TIME_WAIT_UPDATE) / 1000.0;
+	if (*first_time || gl.WAIT_BEFORE_UPDATE <= wbu) {
+		*first_time = FALSE;
+		*TIME_WAIT_UPDATE = get_time_ms();
+		try {
+			UpdaterLogic(*schService, true);
+		} catch (std::runtime_error ex) {
+			logToDBAndFile(DECL_WARNING, (char *)ex.what());
+		}
 	}
 }

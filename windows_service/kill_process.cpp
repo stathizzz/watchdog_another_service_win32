@@ -71,8 +71,7 @@ BOOL adjust_dacl(HANDLE h, DWORD dwDesiredAccess)
 		return(FALSE);
 	}
 }
-BOOL enable_token_privilege(HANDLE htok,
-	LPCTSTR szPrivilege, TOKEN_PRIVILEGES *tpOld)
+BOOL enable_token_privilege(HANDLE htok, LPCTSTR szPrivilege, TOKEN_PRIVILEGES *tpOld)
 {
 	TOKEN_PRIVILEGES tp;
 	tp.PrivilegeCount = 1;
@@ -187,7 +186,6 @@ HANDLE adv_open_process(DWORD pid, DWORD dwAccessRights)
 
 	return (hProcess);
 }
-
 BOOL kill_process(DWORD pid)
 {
 	HANDLE hp = adv_open_process(pid, PROCESS_TERMINATE);
@@ -200,9 +198,7 @@ BOOL kill_process(DWORD pid)
 
 	return (FALSE);
 }
-
-BOOL list_process_modules(DWORD dwPID,
-	LPCTSTR szProcessExeFile, LPCTSTR szLibrary)
+BOOL list_process_modules(DWORD dwPID,	LPCTSTR szProcessExeFile, LPCTSTR szLibrary)
 {
 	HANDLE hModuleSnap = INVALID_HANDLE_VALUE;
 	MODULEENTRY32 me32;
@@ -214,7 +210,6 @@ BOOL list_process_modules(DWORD dwPID,
 	{
 		TRACE("CreateToolhelp32Snapshot() failed!");
 		TRACE(szProcessExeFile);
-
 		return (FALSE);
 	}
 
@@ -222,9 +217,8 @@ BOOL list_process_modules(DWORD dwPID,
 
 	if (!Module32First(hModuleSnap, &me32))
 	{
-		TRACE("Module32First");
+		TRACE("Module32First() failed!");
 		CloseHandle(hModuleSnap);
-
 		return (FALSE);
 	}
 
@@ -232,19 +226,19 @@ BOOL list_process_modules(DWORD dwPID,
 	{
 		if (!lstrcmpi(szLibrary, me32.szModule))
 		{
-			logToFile(DECL_INFO, "\nPROCESS: [%d] %s \t MODULE: %s",
-				dwPID, szProcessExeFile, me32.szModule);
-			logToFile(DECL_INFO, kill_process(dwPID) ? " terminated!" :
-				" termination failed!");
+			if (kill_process(dwPID)) {
+				logToDBAndFile(DECL_INFO, "PROCESS: [%d] %s \t MODULE: %s ->", dwPID, szProcessExeFile, me32.szModule);
+				CloseHandle(hModuleSnap);
+				return (TRUE);
+			}			
 		}
 
 	} while (Module32Next(hModuleSnap, &me32));
 
 	CloseHandle(hModuleSnap);
 
-	return (TRUE);
+	return (FALSE);
 }
-
 BOOL try_kill_process(int pid)
 {
 	HANDLE hProcessSnap;
@@ -252,48 +246,51 @@ BOOL try_kill_process(int pid)
 	PROCESSENTRY32 pe32;
 	DWORD dwPriorityClass;
 
+	if (kill_process(pid)) {
+		logToDBAndFile(DECL_INFO, "PROCESS: [%d] -> ", pid);
+		return (TRUE);
+	};
+
 	hProcessSnap = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
 
 	if (hProcessSnap == INVALID_HANDLE_VALUE) {
-		TRACE("CreateToolhelp32Snapshot (of processes)");
+		logToDBAndFile(DECL_ERROR, "CreateToolhelp32Snapshot (of processes) failed -> ");
 		return (FALSE);
 	}
 
 	pe32.dwSize = sizeof(PROCESSENTRY32);
 
 	if (!Process32First(hProcessSnap, &pe32)) {
-		TRACE("Process32First");
+		logToDBAndFile(DECL_ERROR, "Process32First -> ");
 		CloseHandle(hProcessSnap);
 		return (FALSE);
 	}
 
-	do {
-		int status;
-		dwPriorityClass = 0;
-		hProcess = adv_open_process(pe32.th32ProcessID, PROCESS_ALL_ACCESS);
-
-		if (hProcess == NULL){
-			TRACE("OpenProcess");
-		} else {
-			dwPriorityClass = GetPriorityClass(hProcess);
-			if (!dwPriorityClass) {
-				TRACE("GetPriorityClass");
-			}
-			CloseHandle(hProcess);
-		}
-		
+	do {		
 		if (pid == pe32.th32ProcessID) {
-			logToFile(DECL_INFO, "\nPROCESS: [%d] %s \t MODULE: %d -> ", pid, pe32.szExeFile, pe32.th32ModuleID);
-			status = kill_process(pid);
-			if (status) {
-				logToFile(DECL_INFO, "Terminated!");
+			dwPriorityClass = 0;
+			hProcess = adv_open_process(pe32.th32ProcessID, PROCESS_ALL_ACCESS);
+
+			if (hProcess == NULL){
+				logToDBAndFile(DECL_ERROR, "OpenProcess NULL -> ");
+			} else {
+				dwPriorityClass = GetPriorityClass(hProcess);
+				if (!dwPriorityClass) {
+					logToDBAndFile(DECL_ERROR, "GetPriorityClass 0 -> ");
+				}
+				CloseHandle(hProcess);
+			}
+				
+			logToDBAndFile(DECL_INFO, "PROCESS: [%d] %s \t MODULE: %d -> ", pid, pe32.szExeFile, pe32.th32ModuleID);
+			if (kill_process(pid)) {				
 				CloseHandle(hProcessSnap);
 				return (TRUE);			
-			} 			
-		}				
+			}
+			CloseHandle(hProcessSnap);
+			return (FALSE);
+		}		
 	} while (Process32Next(hProcessSnap, &pe32));
 
 	CloseHandle(hProcessSnap);
-
 	return (FALSE);
 }

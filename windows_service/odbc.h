@@ -77,7 +77,7 @@ typedef struct GLOBALS {
 	string SERVICE_NAME;
 	string PATH_TO_OLD_JARS;
 	string PATH_TO_NEW_JARS;
-	string JAR_TO_CHECK;	
+	string JAR_TO_CHECK;
 } GLOBALS;
 
 typedef struct cardsseenonshoes_db {

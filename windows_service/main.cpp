@@ -47,7 +47,9 @@ extern unsigned long file_size(char *filename);
 extern int zipppp(const char *file, const char *outfile);
 extern bool checkIfUpdateRequired(const char *file, const char *newfile);
 extern void readPcData();
-extern void UpdaterLogic(SC_HANDLE schService);
+extern void UpdaterLogic(SC_HANDLE schService, bool hasService);
+extern void tryUpdateNoService(volatile BOOL *first_time, float *TIME_WAIT_UPDATE, SC_HANDLE *schService, bool overrideAll = true);
+extern void tryUpdateWithService(volatile BOOL *first_time, float *TIME_WAIT_UPDATE, SC_HANDLE *schService);
 
 // Service initialization
 int InitService() 
@@ -65,9 +67,7 @@ void ServiceMain(int argc, char** argv)
 	int counter = 0;
 	float time_delay_update = get_time_ms();
 
-	try
-	{
-
+	try	{
 		readConfigToGlobals();
 		readPcData();
 
@@ -160,18 +160,21 @@ volatile bool pending_on_stop = false;
 
 float time_pending = 0.0, time_pending_on_stop = 0.0, time_pending_to_start = 0.0;
 
+volatile BOOL first_time = TRUE;
+
 void run(float *TIME_WAIT_UPDATE) {
 	
-	SC_HANDLE schService;
-	SC_HANDLE hSc;
+	SC_HANDLE schService = NULL;
+	SC_HANDLE hSc = NULL;
 	HANDLE hToken = NULL;
 	
 	//logToDBAndFile(DECL_INFO, "Reading variables from configuration file\n");
 	readConfigToGlobals();
-
+	
 	hSc = OpenSCManager(NULL, SERVICES_ACTIVE_DATABASE, SC_MANAGER_ALL_ACCESS);
 	if (NULL == hSc) {
 		logToDBAndFile(DECL_ERROR, "OpenSCManager failed (%d)\n", GetLastError());
+		tryUpdateNoService(&first_time, TIME_WAIT_UPDATE, &schService);
 		return;
 	}
 	
@@ -184,20 +187,11 @@ void run(float *TIME_WAIT_UPDATE) {
 
 	if (schService == NULL) {		
 		logToDBAndFile(DECL_ERROR, "OpenService failed (%d)\n", GetLastError());
+		tryUpdateNoService(&first_time, TIME_WAIT_UPDATE, &schService);
 		CloseServiceHandle(hSc);
 		return;
 	}
-
-	float wbu = get_time_passed_ms(*TIME_WAIT_UPDATE) / 1000.0;
-	if (gl.WAIT_BEFORE_UPDATE <= wbu) {
-		*TIME_WAIT_UPDATE = get_time_ms();
-		try {
-			UpdaterLogic(schService);
-		} catch (std::runtime_error ex) {			
-			logToDBAndFile(DECL_WARNING, (char *)ex.what());
-		}				
-	}
-		
+				
 	SERVICE_STATUS_PROCESS status;
 	DWORD bytesNeeded;
 	QueryServiceStatusEx(schService, SC_STATUS_PROCESS_INFO, (LPBYTE)&status, sizeof(SERVICE_STATUS_PROCESS), &bytesNeeded);
@@ -205,10 +199,18 @@ void run(float *TIME_WAIT_UPDATE) {
 	if (status.dwCurrentState == SERVICE_RUNNING) {
 		//get the proces id
 		gl.SERVICE_PROCESS_ID = status.dwProcessId;		
-	} else if (status.dwCurrentState == SERVICE_STOPPED) {
-	
-		logToDBAndFile(DECL_ERROR, "Service is stopped. Trying database logging\n");
+				
+		if (pending) pending = false;
+		if (pending_to_start) pending_to_start = false;
+		
+		tryUpdateWithService(&first_time, TIME_WAIT_UPDATE, &schService);
+
+	} else if (status.dwCurrentState == SERVICE_STOPPED) {	
+		if (pending_on_stop) pending_on_stop = false;
+		logToDBAndFile(DECL_ERROR, "Service is stopped.\n");
+		tryUpdateNoService(&first_time, TIME_WAIT_UPDATE, &schService, true);
 		int instance_id = -1;
+		logToDBAndFile(DECL_ERROR, "Trying database logging\n");
 		int ret = spAppInstancesSearchCreate(&instance_id);
 		ret = spAppInstancesSetState(instance_id, NULL);
 		ret = spAppEventsCreate(instance_id, NULL);
@@ -238,7 +240,7 @@ void run(float *TIME_WAIT_UPDATE) {
 				}
 				BOOL f = try_kill_process(gl.SERVICE_PROCESS_ID);
 				if (f) logToDBAndFile(DECL_INFO, "Service killed on SERVICE_STOP.\n");
-				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_STOP.\n");
+				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_STOP.Error: %d.\n", GetLastError());
 			}
 		}
 	} else if (status.dwCurrentState == SERVICE_START_PENDING ||
@@ -272,7 +274,7 @@ void run(float *TIME_WAIT_UPDATE) {
 				}
 				BOOL f = try_kill_process(gl.SERVICE_PROCESS_ID);
 				if (f) logToDBAndFile(DECL_INFO, "Service killed on SERVICE_STOP_PENDING.\n");		
-				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_STOP_PENDING.\n");
+				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_STOP_PENDING.Error: %d.\n", GetLastError());
 			}			
 		}
 		_sleep(1000);
@@ -299,7 +301,7 @@ void run(float *TIME_WAIT_UPDATE) {
 				}
 				BOOL f = try_kill_process(gl.SERVICE_PROCESS_ID);
 				if (f) logToDBAndFile(DECL_INFO, "Service killed on SERVICE_PENDING.\n");
-				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_PENDING.\n");
+				else logToDBAndFile(DECL_INFO, "Service could not get killed on SERVICE_PENDING.Error: %d.\n", GetLastError());
 			}
 		}
 	} 

@@ -1,34 +1,46 @@
-﻿Build started 7/14/2015 11:05:27 PM.
+﻿Build started 7/18/2015 7:06:19 PM.
      1>Project "C:\Users\vaderas\workspace\watchdog_another_service_win32\windows_service\watchdog_another_service_win32.vcxproj" on node 2 (Build target(s)).
      1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1430,5): warning : The referenced project '..\libsll\msw\libsll.vcxproj' does not exist.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D PCRE_STATIC /D WIN32 /D _MBCS /D LOADER_EXPORTS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt io.cpp kill_process.cpp main.cpp odbc.cpp updater.cpp
-         io.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D PCRE_STATIC /D WIN32 /D _MBCS /D LOADER_EXPORTS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt kill_process.cpp main.cpp updater.cpp
+         updater.cpp
      1>C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(132): warning C4005: 'PASCAL' : macro redefinition
                  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\Lmcons.h(45) : see previous definition of 'PASCAL'
      1>c:\users\vaderas\workspace\watchdog_another_service_win32\windows_service\odbc.h(124): warning C4190: 'ExePath' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
-     1>io.cpp(70): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
-     1>io.cpp(141): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
-     1>io.cpp(145): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(186) : see declaration of 'strncat'
-     1>io.cpp(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
-     1>io.cpp(166): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
-     1>io.cpp(175): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
-     1>io.cpp(179): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(186) : see declaration of 'strncat'
-     1>io.cpp(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
-         Generating Code...
-         Skipping... (no relevant changes detected)
-         updater.cpp
-         odbc.cpp
+     1>updater.cpp(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(109): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(150): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>updater.cpp(173): warning C4101: 'result' : unreferenced local variable
+     1>updater.cpp(264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>updater.cpp(257): warning C4101: 'delete_status' : unreferenced local variable
+     1>updater.cpp(290): warning C4101: 'copy_status' : unreferenced local variable
+     1>updater.cpp(410): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>updater.cpp(424): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
          main.cpp
+     1>c:\users\vaderas\workspace\watchdog_another_service_win32\windows_service\odbc.h(124): warning C4190: 'ExePath' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+     1>main.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>main.cpp(120): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(911) : see declaration of '_sleep'
+     1>main.cpp(65): warning C4101: 'result' : unreferenced local variable
+     1>main.cpp(116): warning C4101: 'mystatus' : unreferenced local variable
+     1>main.cpp(230): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(280): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(911) : see declaration of '_sleep'
+     1>main.cpp(291): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(330): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(911) : see declaration of '_sleep'
          kill_process.cpp
+     1>C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(132): warning C4005: 'PASCAL' : macro redefinition
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\Lmcons.h(45) : see previous definition of 'PASCAL'
+     1>c:\users\vaderas\workspace\watchdog_another_service_win32\windows_service\odbc.h(124): warning C4190: 'ExePath' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+         Generating Code...
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Debug\windows_service.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\x64\Debug\ winmm.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"x64\Debug\windows_service.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Debug\windows_service.lib" /MACHINE:X64 x64\Debug\io.obj
          x64\Debug\kill_process.obj
@@ -36,9 +48,10 @@
          x64\Debug\main.obj
          x64\Debug\odbc.obj
          x64\Debug\updater.obj
+            Creating library x64\Debug\windows_service.lib and object x64\Debug\windows_service.exp
          watchdog_another_service_win32.vcxproj -> C:\Users\vaderas\workspace\watchdog_another_service_win32\windows_service\x64\Debug\windows_service.exe
      1>Done Building Project "C:\Users\vaderas\workspace\watchdog_another_service_win32\windows_service\watchdog_another_service_win32.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.87
+Time Elapsed 00:00:04.56
